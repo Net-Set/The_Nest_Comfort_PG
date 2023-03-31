@@ -1,0 +1,1 @@
+(function($){'use strict';$(document).ready(function(){setTimeout(function(){$(".cn_model").show()},5000)})})(jQuery)

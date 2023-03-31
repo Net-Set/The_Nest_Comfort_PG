@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.voylla.com	TRUE	/61094723750/checkouts/defd847a56d13b4f71a6f67702d1de4a	FALSE	1999999999	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVZqWlRCak1XUXpNakU0WVRSall6a3lOak5rTWpVMk1tUXlNakE1TlRabE9BWTZCa1ZVIiwiZXhwIjoiMjAyMy0wMy0xM1QxMDo1OTo0MC45MDRaIiwicHVyIjoiY29va2llLmNoZWNrb3V0In19--cfd6a30afe341be05567eb6469fe951af7d81db0
+www.voylla.com	TRUE	/61094723750	FALSE	1999999999	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVZrWldaa09EUTNZVFUyWkRFellqUm1OekZoTm1ZMk56Y3dNbVF4WkdVMFlRWTZCa1ZVIiwiZXhwIjoiMjAyNC0wMi0yMFQxMDo1OTo0MC45MDRaIiwicHVyIjoiY29va2llLmNoZWNrb3V0X3Rva2VuIn19--e9f6657a15e5ac4ede2ea01e4158971f0ca357d4
+voylla.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+www.voylla.com	TRUE	/	FALSE	1999999999	_secure_session_id	291cfb8e0de40eee59fae56d4a8ecf50
+www.voylla.com	TRUE	/	FALSE	1999999999	cart	ff42688bef8d69a243cdb523300a3d08
+www.voylla.com	TRUE	/	FALSE	1999999999	cart_ts	1676888600
+www.voylla.com	TRUE	/	FALSE	1999999999	cart_currency	INR
+www.voylla.com	TRUE	/	FALSE	1999999999	_checkout_queue_token	AiJSQxev6E3ymIzH2CGty1aw3G2esZuCHYcp0fgMwSfsEJJsi58Ql8G3iXRM3zZrbmPgfA_YuAfNw2zqi3dnKwCrPNuA_BvS7alR9iWVMjuMwLZ16nia34NukSoMNagzQFU-gd43Hj9l1h-aIrxJa3W4wTaVaQyW8fFoBt1whJtxbh4%3D
+www.voylla.com	TRUE	/	FALSE	1999999999	_checkout_queue_checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVZrWldaa09EUTNZVFUyWkRFellqUm1OekZoTm1ZMk56Y3dNbVF4WkdVMFlRWTZCa1ZVIiwiZXhwIjoiMjAyMy0wMi0yMFQxMToyMzoyMS4xMjRaIiwicHVyIjoiY29va2llLl9jaGVja291dF9xdWV1ZV9jaGVja291dF90b2tlbiJ9fQ%3D%3D--c4377dce2d91eb2c07492dcacdc7e358d7e0147a
+www.voylla.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-central1%3A2
+www.voylla.com	TRUE	/	FALSE	1999999999	cart_sig	8db84aa61de53b67a165cde5a7430ce6
+www.voylla.com	TRUE	/	FALSE	1999999999	localization	IN
+voylla.com	TRUE	/	FALSE	1999999999	_y	4d94dbb7-4e79-4e19-b6d5-78a5856325a5
+voylla.com	TRUE	/	FALSE	1999999999	_s	8027f75b-513f-463b-bfdc-fb604dd70fca
+voylla.com	TRUE	/	FALSE	1999999999	_shopify_y	4d94dbb7-4e79-4e19-b6d5-78a5856325a5
+www.voylla.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+voylla.com	TRUE	/	FALSE	1999999999	_shopify_s	8027f75b-513f-463b-bfdc-fb604dd70fca
+www.voylla.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

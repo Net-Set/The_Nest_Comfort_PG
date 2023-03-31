@@ -1,0 +1,2228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vegina-store.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vegina-store.myshopify.com/collections/salads.atom"/>
+  <title>Vegist</title>
+  <updated>2021-05-10T06:53:13-04:00</updated>
+  <author>
+    <name>Vegist</name>
+  </author>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/6820931240085</id>
+    <published>2021-05-10T06:53:13-04:00</published>
+    <updated>2021-05-10T06:53:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/fresh-grassben"/>
+    <title>Fresh grassben</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/4_e3af2cd6-0f26-42a3-8071-42cae821c669.jpg?v=1620644020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_onion</s:tag>
+    <s:tag>vendor_Fargglad</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820931240085</id>
+      <title>1kg / canada</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820931240085</id>
+      <title>1kg / india</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820931240085</id>
+      <title>1kg / germany</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820931240085</id>
+      <title>2kg / canada</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820931240085</id>
+      <title>2kg / india</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820931240085</id>
+      <title>2kg / germany</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820931240085</id>
+      <title>5kg / canada</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820931240085</id>
+      <title>5kg / india</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820931240085</id>
+      <title>5kg / germany</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/6820904403093</id>
+    <published>2021-05-10T06:34:50-04:00</published>
+    <updated>2021-05-10T06:34:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/fresh-seafoods"/>
+    <title>Fresh seafoods</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/33.jpg?v=1620642906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_onion</s:tag>
+    <s:tag>vendor_Fargglad</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820904403093</id>
+      <title>1kg / canada</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820904403093</id>
+      <title>1kg / india</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820904403093</id>
+      <title>1kg / germany</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820904403093</id>
+      <title>2kg / canada</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820904403093</id>
+      <title>2kg / india</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820904403093</id>
+      <title>2kg / germany</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820904403093</id>
+      <title>5kg / canada</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820904403093</id>
+      <title>5kg / india</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820904403093</id>
+      <title>5kg / germany</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/6820902600853</id>
+    <published>2021-05-10T06:33:21-04:00</published>
+    <updated>2021-05-10T06:33:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/fresh-avocado"/>
+    <title>Fresh avocado</title>
+    <s:type>Vegetable</s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/3.jpg?v=1660816470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong>Vegetable<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_onion</s:tag>
+    <s:tag>vendor_Fargglad</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820902600853</id>
+      <title>1kg / canada</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820902600853</id>
+      <title>1kg / india</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820902600853</id>
+      <title>1kg / germany</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820902600853</id>
+      <title>2kg / canada</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820902600853</id>
+      <title>2kg / india</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820902600853</id>
+      <title>2kg / germany</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820902600853</id>
+      <title>5kg / canada</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820902600853</id>
+      <title>5kg / india</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820902600853</id>
+      <title>5kg / germany</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/6820900536469</id>
+    <published>2021-05-10T06:32:03-04:00</published>
+    <updated>2021-05-10T06:32:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/fresh-blueberry"/>
+    <title>Fresh blueberry</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/1_be228c2a-2270-4d74-9999-e2aaf713e29a.jpg?v=1660816585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_onion</s:tag>
+    <s:tag>vendor_Fargglad</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820900536469</id>
+      <title>1kg / canada</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820900536469</id>
+      <title>1kg / india</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820900536469</id>
+      <title>1kg / germany</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820900536469</id>
+      <title>2kg / canada</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820900536469</id>
+      <title>2kg / india</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820900536469</id>
+      <title>2kg / germany</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820900536469</id>
+      <title>5kg / canada</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820900536469</id>
+      <title>5kg / india</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820900536469</id>
+      <title>5kg / germany</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/6820896309397</id>
+    <published>2021-05-10T06:29:09-04:00</published>
+    <updated>2021-05-10T06:29:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/copy-of-sp-red-fresh-guava"/>
+    <title>Vegetable tomato</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/20.jpg?v=1620642567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_onion</s:tag>
+    <s:tag>vendor_Fargglad</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820896309397</id>
+      <title>1kg / canada</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820896309397</id>
+      <title>1kg / india</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820896309397</id>
+      <title>1kg / germany</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820896309397</id>
+      <title>2kg / canada</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820896309397</id>
+      <title>2kg / india</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820896309397</id>
+      <title>2kg / germany</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820896309397</id>
+      <title>5kg / canada</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820896309397</id>
+      <title>5kg / india</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820896309397</id>
+      <title>5kg / germany</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/6820894441621</id>
+    <published>2021-05-10T06:27:50-04:00</published>
+    <updated>2021-05-10T06:27:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/sp-red-fresh-guava"/>
+    <title>Sp. red fresh guava</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/30.jpg?v=1620642492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_onion</s:tag>
+    <s:tag>vendor_Fargglad</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820894441621</id>
+      <title>1kg / canada</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820894441621</id>
+      <title>1kg / india</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820894441621</id>
+      <title>1kg / germany</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820894441621</id>
+      <title>2kg / canada</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820894441621</id>
+      <title>2kg / india</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820894441621</id>
+      <title>2kg / germany</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820894441621</id>
+      <title>5kg / canada</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820894441621</id>
+      <title>5kg / india</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820894441621</id>
+      <title>5kg / germany</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/6820892508309</id>
+    <published>2021-05-10T06:26:15-04:00</published>
+    <updated>2021-05-10T06:26:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/organic-coconet"/>
+    <title>Organic coconet</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/2.jpg?v=1620642391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_onion</s:tag>
+    <s:tag>vendor_Fargglad</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820892508309</id>
+      <title>1kg / canada</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820892508309</id>
+      <title>1kg / india</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820892508309</id>
+      <title>1kg / germany</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820892508309</id>
+      <title>2kg / canada</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820892508309</id>
+      <title>2kg / india</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820892508309</id>
+      <title>2kg / germany</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820892508309</id>
+      <title>5kg / canada</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820892508309</id>
+      <title>5kg / india</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820892508309</id>
+      <title>5kg / germany</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/6820888805525</id>
+    <published>2021-05-10T06:23:05-04:00</published>
+    <updated>2021-05-10T06:23:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/fruits-banana-100-organic"/>
+    <title>Fruits banana 100% organic</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/14.jpg?v=1620642211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_onion</s:tag>
+    <s:tag>vendor_Fargglad</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820888805525</id>
+      <title>1kg / canada</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820888805525</id>
+      <title>1kg / india</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820888805525</id>
+      <title>1kg / germany</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820888805525</id>
+      <title>2kg / canada</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820888805525</id>
+      <title>2kg / india</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820888805525</id>
+      <title>2kg / germany</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820888805525</id>
+      <title>5kg / canada</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820888805525</id>
+      <title>5kg / india</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820888805525</id>
+      <title>5kg / germany</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/6820886675605</id>
+    <published>2021-05-10T06:21:14-04:00</published>
+    <updated>2021-05-10T06:21:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/copy-of-blackberry-100-organic"/>
+    <title>Fresh organic reachter</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/16.jpg?v=1620642098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_onion</s:tag>
+    <s:tag>vendor_Fargglad</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820886675605</id>
+      <title>1kg / canada</title>
+      <s:price currency="EUR">44.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820886675605</id>
+      <title>1kg / india</title>
+      <s:price currency="EUR">44.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820886675605</id>
+      <title>1kg / germany</title>
+      <s:price currency="EUR">44.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820886675605</id>
+      <title>2kg / canada</title>
+      <s:price currency="EUR">44.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820886675605</id>
+      <title>2kg / india</title>
+      <s:price currency="EUR">44.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820886675605</id>
+      <title>2kg / germany</title>
+      <s:price currency="EUR">44.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820886675605</id>
+      <title>5kg / canada</title>
+      <s:price currency="EUR">44.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820886675605</id>
+      <title>5kg / india</title>
+      <s:price currency="EUR">44.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/6820886675605</id>
+      <title>5kg / germany</title>
+      <s:price currency="EUR">44.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5359109931157</id>
+    <published>2020-06-22T07:34:18-04:00</published>
+    <updated>2020-06-22T07:34:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/orange-juice-5ltr"/>
+    <title>Orange juice (5ltr)</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/49.jpg?v=1595939069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_100-200</s:tag>
+    <s:tag>size_10ltr</s:tag>
+    <s:tag>size_1ltr</s:tag>
+    <s:tag>size_5ltr</s:tag>
+    <s:tag>tags_juice</s:tag>
+    <s:tag>vendor_lustigt</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359109931157</id>
+      <title>1ltr</title>
+      <s:price currency="EUR">66.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359109931157</id>
+      <title>5ltr</title>
+      <s:price currency="EUR">66.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359109931157</id>
+      <title>10ltr</title>
+      <s:price currency="EUR">66.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5359105835157</id>
+    <published>2020-06-22T07:34:16-04:00</published>
+    <updated>2020-06-22T07:34:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/fresh-mussel-500g"/>
+    <title>Fresh mussel (500g)</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/45.jpg?v=1595938822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_0-100</s:tag>
+    <s:tag>size_10kg</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_mussel</s:tag>
+    <s:tag>vendor_flisat</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359105835157</id>
+      <title>5kg</title>
+      <s:price currency="EUR">33.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359105835157</id>
+      <title>2kg</title>
+      <s:price currency="EUR">33.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359105835157</id>
+      <title>1kg</title>
+      <s:price currency="EUR">33.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359105835157</id>
+      <title>10kg</title>
+      <s:price currency="EUR">33.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5359100493973</id>
+    <published>2020-06-22T07:34:14-04:00</published>
+    <updated>2020-06-22T07:34:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/fresh-dryed-almod-50g"/>
+    <title>Fresh dryed almod (50g)</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/40.jpg?v=1660816812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_almond</s:tag>
+    <s:tag>vendor_flisat</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359100493973</id>
+      <title>5kg</title>
+      <s:price currency="EUR">31.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359100493973</id>
+      <title>1kg</title>
+      <s:price currency="EUR">31.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359100493973</id>
+      <title>2kg</title>
+      <s:price currency="EUR">31.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5359090040981</id>
+    <published>2020-06-22T07:34:09-04:00</published>
+    <updated>2020-06-22T07:34:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/shrimp-jumbo-5-lb"/>
+    <title>Shrimp - jumbo (5 lb)</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/36_1.jpg?v=1595939147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            61.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_shrimp</s:tag>
+    <s:tag>vendor_flisat</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359090040981</id>
+      <title>1kg</title>
+      <s:price currency="EUR">61.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359090040981</id>
+      <title>2kg</title>
+      <s:price currency="EUR">61.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5359090040981</id>
+      <title>5kg</title>
+      <s:price currency="EUR">61.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5349755584661</id>
+    <published>2020-06-18T09:46:05-04:00</published>
+    <updated>2020-06-18T09:46:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/fresh-green-orange"/>
+    <title>Fresh green orange</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/7.jpg?v=1620641701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_0-100</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>vendor_lustigt</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5349755584661</id>
+      <title>5kg</title>
+      <s:price currency="EUR">8.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5349755584661</id>
+      <title>2kg</title>
+      <s:price currency="EUR">8.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5349755584661</id>
+      <title>3kg</title>
+      <s:price currency="EUR">8.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5349752504469</id>
+    <published>2020-06-18T09:46:01-04:00</published>
+    <updated>2020-06-18T09:46:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/100-fafe-organic-fruit"/>
+    <title>Fresh organic fruit(50gm)</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/29.jpg?v=1620641842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_10kg</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_organic-food</s:tag>
+    <s:tag>vendor_kyrre</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5349752504469</id>
+      <title>5kg</title>
+      <s:price currency="EUR">33.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5349752504469</id>
+      <title>10kg</title>
+      <s:price currency="EUR">33.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5349752504469</id>
+      <title>1kg</title>
+      <s:price currency="EUR">33.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5344755351701</id>
+    <published>2020-06-17T04:56:00-04:00</published>
+    <updated>2020-06-17T04:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/hmd-colection-watch"/>
+    <title>Fresh &amp; healthy food</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/22.jpg?v=1660815910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_100-200</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_chikoo</s:tag>
+    <s:tag>vendor_flisat</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344755351701</id>
+      <title>5kg</title>
+      <s:price currency="EUR">14.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344755351701</id>
+      <title>1kg</title>
+      <s:price currency="EUR">14.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344755351701</id>
+      <title>2kg</title>
+      <s:price currency="EUR">14.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5344754630805</id>
+    <published>2020-06-17T04:55:39-04:00</published>
+    <updated>2020-06-17T04:55:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/bantch-blazar-hint"/>
+    <title>Blackberry 100%organic</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/11.jpg?v=1660815830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00 - 18.00
+            <a href="https://vegina-store.myshopify.com/products/bantch-blazar-hint">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Grocery</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Vegetable</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344754630805</id>
+      <title>1kg / canada</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344754630805</id>
+      <title>1kg / india</title>
+      <s:price currency="EUR">17.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344754630805</id>
+      <title>1kg / germany</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344754630805</id>
+      <title>2kg / canada</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344754630805</id>
+      <title>2kg / india</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344754630805</id>
+      <title>2kg / germany</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344754630805</id>
+      <title>5kg / canada</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344754630805</id>
+      <title>5kg / india</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344754630805</id>
+      <title>5kg / germany</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5344754008213</id>
+    <published>2020-06-17T04:55:30-04:00</published>
+    <updated>2020-06-17T04:55:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/children-formal-shirt"/>
+    <title>Fresh carrot natural free</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/5_f217f634-03ae-4d04-9e2d-96d9d934f5f2.jpg?v=1660816732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_0-100</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_bitrrot</s:tag>
+    <s:tag>vendor_Fargglad</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344754008213</id>
+      <title>5kg</title>
+      <s:price currency="EUR">31.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344754008213</id>
+      <title>3kg</title>
+      <s:price currency="EUR">31.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344754008213</id>
+      <title>1kg</title>
+      <s:price currency="EUR">31.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5344753811605</id>
+    <published>2020-06-17T04:55:19-04:00</published>
+    <updated>2020-06-17T04:55:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/ladies-sniper-crop"/>
+    <title>Fresh litchi 100% organic</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/19.jpg?v=1620641758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_0-100</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_guava</s:tag>
+    <s:tag>vendor_kyrre</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344753811605</id>
+      <title>1kg</title>
+      <s:price currency="EUR">8.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>2200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344753811605</id>
+      <title>2kg</title>
+      <s:price currency="EUR">8.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>2200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344753811605</id>
+      <title>5kg</title>
+      <s:price currency="EUR">8.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>2200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344753811605</id>
+      <title>7kg</title>
+      <s:price currency="EUR">8.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>2200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5344753057941</id>
+    <published>2020-06-17T04:55:08-04:00</published>
+    <updated>2020-06-17T04:55:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/exclusive-zacket"/>
+    <title>Healthy papaya 100% organic</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/27.jpg?v=1620641889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_0-100</s:tag>
+    <s:tag>size_10kg</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_minirrot</s:tag>
+    <s:tag>vendor_kyrre</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344753057941</id>
+      <title>10kg / greek</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344753057941</id>
+      <title>10kg / german</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344753057941</id>
+      <title>1kg / greek</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344753057941</id>
+      <title>2kg / german</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344753057941</id>
+      <title>2kg / greek</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344753057941</id>
+      <title>1kg / german</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5344752107669</id>
+    <published>2020-06-17T04:54:52-04:00</published>
+    <updated>2020-06-17T04:54:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/binance-bags"/>
+    <title>Fresh banana 100% safe</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/9_2eaa4c90-883b-4c16-b83b-dd3128df3c76.jpg?v=1660816511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_1kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_banana</s:tag>
+    <s:tag>vendor_sundvik</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344752107669</id>
+      <title>1kg / canada</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344752107669</id>
+      <title>1kg / india</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344752107669</id>
+      <title>1kg / germany</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344752107669</id>
+      <title>2kg / canada</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344752107669</id>
+      <title>2kg / india</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344752107669</id>
+      <title>2kg / germany</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344752107669</id>
+      <title>5kg / canada</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344752107669</id>
+      <title>5kg / india</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344752107669</id>
+      <title>5kg / germany</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vegina-store.myshopify.com/products/5344751943829</id>
+    <published>2020-06-17T04:54:45-04:00</published>
+    <updated>2020-06-17T04:54:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vegina-store.myshopify.com/products/henry-tixied-top"/>
+    <title>Fresh apple (5kg)</title>
+    <s:type></s:type>
+    <s:vendor>Vegist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0412/8151/9765/products/25.jpg?v=1660816037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegist<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="more-description">
+<h2>More Detail</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div>
+<div class="more-description">
+<h2>Key Specification</h2>
+<ul>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li>
+<li>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</li>
+<li>type here your detail one by one li more add</li>
+<li>has been the industry’s standard dummy text ever since. Lorem Ips</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>price_200-300</s:tag>
+    <s:tag>size_2kg</s:tag>
+    <s:tag>size_3kg</s:tag>
+    <s:tag>size_5kg</s:tag>
+    <s:tag>tags_blackberry</s:tag>
+    <s:tag>vendor_sundvik</s:tag>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344751943829</id>
+      <title>2kg / india</title>
+      <s:price currency="EUR">14.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344751943829</id>
+      <title>2kg / canada</title>
+      <s:price currency="EUR">14.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344751943829</id>
+      <title>3kg / india</title>
+      <s:price currency="EUR">14.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vegina-store.myshopify.com/products/5344751943829</id>
+      <title>3kg / canada</title>
+      <s:price currency="EUR">14.00</s:price>
+      <s:sku>123456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

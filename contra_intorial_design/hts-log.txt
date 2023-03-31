@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 30 Mar 2023 12:24:32 at https://preview.themeforest.net/item/contra-html-template-for-architecture-construction-and-interior-design/full_screen_preview/23189643?clickid=0VzT5lQ%3A6xyNUX-zXh2d-x-KUkAWI-XROVAOU80&iradid=275988&iradtype=ONLINE_TRACKING_LINK&irgwc=1&irmptype=mediapartner&irpid=369282&mp_value1= +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.themeforest.net/item/contra-html-template-for-architecture-construction-and-interior-design/full_screen_preview/23189643?clickid=0VzT5lQ%3A6xyNUX-zXh2d-x-KUkAWI-XROVAOU80&iradid=275988&iradtype=ONLINE_TRACKING_LINK&irgwc=1&irmptype=mediapartner&irpid=369282&mp_value1= -O1 "C:\My Web Sites\contra_intorial_design" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:24:33	Warning: 	Link https://preview.themeforest.net/item/contra-html-template-for-architecture-construction-and-interior-design/full_screen_preview/23189643?clickid=0VzT5lQ%3A6xyNUX-zXh2d-x-KUkAWI-XROVAOU80&iradid=275988&iradtype=ONLINE_TRACKING_LINK&irgwc=1&irmptype=mediapartner&irpid=369282&mp_value1= not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 seconds : 4 links scanned, 3 files written (91196 bytes overall) [77169 bytes received at 77169 bytes/sec], 25109 bytes transferred using HTTP compression in 2 files, ratio 30%
+(No errors, 1 warnings, 0 messages)

@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:22:28	1238/1238	---M--	404	error ('Not%20Found')	text/html	date:Thu,%2030%20Mar%202023%2006:52:26%20GMT	https://demoapus2.com/robots.txt		(from )
+12:22:28	151986/151986	---MCZ	200	added ('OK')	text/html	etag:%22174267-1679995984;gz%22	https://demoapus2.com/intoria/	C:/My%20Web%20Sites/Intoria_design/demoapus2.com/intoria/index.html	(from )
+12:22:30	42/42	---M-Z	405	error ('Method%20Not%20Allowed')	text/plain	date:Thu,%2030%20Mar%202023%2006:52:28%20GMT	https://demoapus2.com/intoria/xmlrpc.php	C:/My%20Web%20Sites/Intoria_design/demoapus2.com/intoria/xmlrpc.php	(from https://demoapus2.com/intoria/)

@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voylla.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voylla.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voylla.com/collections/aham-brahmasmi.atom"/>
+  <title>VOYLLA</title>
+  <updated>2022-05-29T17:59:04+05:30</updated>
+  <author>
+    <name>VOYLLA</name>
+  </author>
+  <entry>
+    <id>https://www.voylla.com/products/7401145008294</id>
+    <published>2022-05-29T17:59:04+05:30</published>
+    <updated>2022-05-29T17:59:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-moksh-inscription-ring"/>
+    <title>Aham Brahmasmi Moksh Inscription Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-moksh-inscription-ring-vmjai43139-ms-20201205-19770-3fvpos.jpg?v=1654700672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Brass ring with ?moksha? inscription, inspired by the Yogic concepts of self-exploration and oneness with the universe. Oxidised plated and enamelled, the half-moon motif bearing ring has been adorned with a single Rudraksha bead. The ring is adjustable and can be paired with ethnic and Indo-Western looks.</p><p></p><li>Weight (Gms): 3.74</li><li>Size (LxW)(Inch): 0.9*0.5</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 1 Ring</li><li>Product Code: 8905124112122</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Engagament Ring</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7401145008294</id>
+      <title>Adjustable</title>
+      <s:price currency="INR">299.00</s:price>
+      <s:sku>VMJAI43139-Adjustable</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7401144975526</id>
+    <published>2022-05-29T17:59:01+05:30</published>
+    <updated>2022-05-29T17:59:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-inscription-ring"/>
+    <title>Aham Brahmasmi Inscription Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-inscription-ring-vmjai43132-ms-20201205-1058-j2wps5_bc48d2f3-6b37-42c1-aab6-bce424082b87.jpg?v=1653908248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Ancient Indian texts and the Yogic concept of oneness with the universe have inspired this brass ring, which features an ?Aham Beahmasmi? inscription. Oxidised plated and lightly embellished, this adjustable ring can be paired with Bohemian, casual outfits and looks of all types.</p><p></p><li>Weight (Gms): 4.3</li><li>Size (LxW)(Inch): 1.6*0.35</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 1 Ring</li><li>Product Code: 8905124112023</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Engagament Ring</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7401144975526</id>
+      <title>Adjustable</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku>VMJAI43132-Adjustable</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7401144877222</id>
+    <published>2022-05-29T17:58:53+05:30</published>
+    <updated>2022-05-29T17:58:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-inscription-round-statement-ring"/>
+    <title>Aham Brahmasmi Inscription Round Statement Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-inscription-round-statement-ring-vmjai43130-ms-20201205-1058-da60n6.jpg?v=1654700663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Ancient Indian texts and yogic principles have inspired this round statement ring, which features ?Aham Brahmasmi? inscription. Made from brass and oxidised plated, the enamelled ring is adjustable for maximum comfort. Pair with a casual kurta and jeans ensemble.</p><p></p><li>Weight (Gms): 8.78</li><li>Size (LxW)(Inch): 1.5*1.5</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 1 Ring</li><li>Product Code: 8905124111989</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Engagament Ring</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7401144877222</id>
+      <title>Adjustable</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI43130-Adjustable</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7401144844454</id>
+    <published>2022-05-29T17:58:51+05:30</published>
+    <updated>2022-05-29T17:58:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-shiva-s-third-eye-ringy"/>
+    <title>Aham Brahmasmi Shiva&apos;s Third Eye Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-shiva-s-third-eye-ring-vmjai43129-ms-20201205-19770-enfmqv_b34bf2f2-f0ce-4964-b409-fb64391ec12f.jpg?v=1653908236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inspired by the Yogic concepts of oneness with the universe and self exploration, this ring features the motif of Lord Shiva?s Third Eye. Made from brass and oxidised plated, the adjustable ring has been adorned with a single Rudraksha bead. A good match for casual ethnic looks.</p><p></p><li>Weight (Gms): 7.03</li><li>Size (LxW)(Inch): 1.44*0.64</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 1 Ring</li><li>Product Code: 8905124111965</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Engagament Ring</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7401144844454</id>
+      <title>Adjustable</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI43129-Adjustable</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399129186470</id>
+    <published>2022-05-27T23:06:16+05:30</published>
+    <updated>2022-05-27T23:06:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-yoga-necklace"/>
+    <title>Aham Brahmasmi Yoga Necklace</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-yoga-necklace-vmjai43137-ms-20201205-19770-1ot3iuc.jpg?v=1653672981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            879.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Featuring yoga poses motifs, this necklace has been designed as a tribute to the ancient Indian form of Yoga and its principles. Made from brass and oxidised plated, the necklace has been adorned with Rudraksha beads. Wear with a jeans and kurta attire.</p><p></p><li>Weight (Gms): 36.98</li><li>Size (LxW)(Inch): 16*0.68</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 1 Necklace</li><li>Product Code: 8905124112108</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1500-1999</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Short</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399129186470</id>
+      <title>Default Title</title>
+      <s:price currency="INR">879.00</s:price>
+      <s:sku>VMJAI43137</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399129120934</id>
+    <published>2022-05-27T23:06:10+05:30</published>
+    <updated>2022-05-27T23:06:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-inscription-brass-necklace"/>
+    <title>Aham Brahmasmi Inscription Brass Necklace</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-inscription-brass-necklace-vmjai43136-ms-20201205-1058-4o6fx6.jpg?v=1653672975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Adorned with a single Rudraksha bead and featuring “Aham Brahmasmi” inscription, this brass necklace has been inspired by Yogic principles and ancient Indian texts. Oxidised plated and lightly embellished, the necklace is comfortable, lightweight and versatile.</p><p></p><li>Weight (Gms): 6.95</li><li>Size (LxW)(Inch): 20*0.45</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 1 Necklace</li><li>Product Code: 8905124112092</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Short</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399129120934</id>
+      <title>Default Title</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku>VMJAI43136</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399129088166</id>
+    <published>2022-05-27T23:06:05+05:30</published>
+    <updated>2022-05-27T23:06:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-ahinsa-bracelet"/>
+    <title>Aham Brahmasmi Ahinsa Bracelet</title>
+    <s:type>Bangles + Bracelet</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-ahinsa-bracelet-vmjai43135-ms-20201205-19770-1hdiob5.jpg?v=1654257859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Bangles + Bracelet<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> A classic chain bracelet, inspired by the Yogic principles of self exploration and oneness with the universe. Featuring an “Ahinsa” inscription, the brass bracelet has been given an oxidised plating. A lightweight and comfortable piece, the bracelet is good for everyday, casual wear.</p><p></p><li>Weight (Gms): 3.55</li><li>Size (LxW)(Inch): 9.15*0.5</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 1 Bracelet</li><li>Product Code: 8905124112078</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Bangles + Bracelet</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Link</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399129088166</id>
+      <title>Adjustable</title>
+      <s:price currency="INR">299.00</s:price>
+      <s:sku>VMJAI43135-Adjustable</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399128989862</id>
+    <published>2022-05-27T23:06:00+05:30</published>
+    <updated>2022-05-27T23:06:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-inscription-chain-bracelet"/>
+    <title>Aham Brahmasmi Inscription Chain Bracelet</title>
+    <s:type>Bangles + Bracelet</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-inscription-chain-bracelet-vmjai43134-ms-20201205-1058-npclo0.jpg?v=1653672964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Bangles + Bracelet<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> A brass chain bracelet, inspired by the Yogic principle of oneness with the universe, featuring a “Aham Brahmasmi” inscription. Oxidised plated and lightly embellished, this bracelet can be paired with causal ethnic and Indo-Western looks.</p><p></p><li>Weight (Gms): 4.81</li><li>Size (LxW)(Inch): 9.75*0</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 1 Bracelet</li><li>Product Code: 8905124112054</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Bangles + Bracelet</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Link</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399128989862</id>
+      <title>Adjustable</title>
+      <s:price currency="INR">299.00</s:price>
+      <s:sku>VMJAI43134-Adjustable</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399128891558</id>
+    <published>2022-05-27T23:05:52+05:30</published>
+    <updated>2022-05-27T23:05:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-nirvana-bali-earrings"/>
+    <title>Aham Brahmasmi Nirvana Bali Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-nirvana-bali-earrings-vmjai43133-ms-20201205-19770-1omj0v3.jpg?v=1653672959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> The Yogic principles of onesness with the universe and self exploration have inspired these bali style earrings. Bearing a "Nirvana" inscription, these brass earrings have been given an oxidised plating. Perfect for casual ethnic and Indo-Western looks.</p><p></p><li>Weight (Gms): 13.89</li><li>Size (LxW)(Inch): 1.85*1</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124112047</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Stud</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399128891558</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI43133</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399128694950</id>
+    <published>2022-05-27T23:05:45+05:30</published>
+    <updated>2022-05-27T23:05:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-inscription-drop-earrings"/>
+    <title>Aham Brahmasmi Inscription Drop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-inscription-drop-earrings-vmjai43128-ms-20201205-1058-r1dvv1.jpg?v=1654257885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Drop style earrings, fashioned out of brass and inspired by the ancient Indian practices of yoga and self exploration. Featuring “Aham Brahmasmi” inscription, these oxidised plated earrings have been lightly embellished. Pair with causal Indian or Indo-Western looks.</p><p></p><li>Weight (Gms): 11.19</li><li>Size (LxW)(Inch): 2.5*0.8</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124111958</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Dangler</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399128694950</id>
+      <title>Default Title</title>
+      <s:price currency="INR">529.00</s:price>
+      <s:sku>VMJAI43128</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399128596646</id>
+    <published>2022-05-27T23:05:38+05:30</published>
+    <updated>2022-05-27T23:05:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-shanti-jhumka-earrings"/>
+    <title>Aham Brahmasmi Shanti Jhumka Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-shanti-jhumka-earrings-vmjai43127-ms-20201205-19770-1rpm5l2.jpg?v=1654257950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            889.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inspired by the Yogic concepts of oneness with the universe and self exploration, these jhumka style earrings have been fashioned out of brass. Oxidised plated and enamelled, these lightly embellished jhumkas will look splendid when paired with a jeans and kurta attire.</p><p></p><li>Weight (Gms): 32.85</li><li>Size (LxW)(Inch): 1.85*0.5</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124111941</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1500-1999</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jhumkis</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>top_seller_oct_15</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399128596646</id>
+      <title>Default Title</title>
+      <s:price currency="INR">889.00</s:price>
+      <s:sku>VMJAI43127</s:sku>
+      <s:grams>33</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399128465574</id>
+    <published>2022-05-27T23:05:32+05:30</published>
+    <updated>2022-05-27T23:05:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-yoga-earrings"/>
+    <title>Aham Brahmasmi Yoga Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-yoga-earrings-vmjai43126-ms-20201205-1058-1oth7s1.jpg?v=1653672938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inspired by the ancient Indian form of Yoga, these brass earrings have been fashioned into a yoga pose motif. Adorned with a single Rudraksha bead, this pair has been given an oxidised plating. Pair with a casual kurta or saree.</p><p></p><li>Weight (Gms): 10.9</li><li>Size (LxW)(Inch): 1.5*0.85</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124111934</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Stud</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399128465574</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI43126</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399128334502</id>
+    <published>2022-05-27T23:05:25+05:30</published>
+    <updated>2022-05-27T23:05:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-trishul-motif-earrings"/>
+    <title>Aham Brahmasmi Trishul Motif Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-trishul-motif-earrings-vmjai43125-ms-20201205-19770-wh7ayt.jpg?v=1653672931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Casual style earrings inspired by ancient Indian text and yogic principles, fashioned from brass into a Lord Shiva’s Trishul motif. Oxidised plated and enamelled, the textured earrings an be paired with casual Indian and Indo-Western looks.</p><p></p><li>Weight (Gms): 11.2</li><li>Size (LxW)(Inch): 1.6*0.85</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124111927</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Dangler</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399128334502</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI43125</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399128301734</id>
+    <published>2022-05-27T23:05:18+05:30</published>
+    <updated>2022-05-27T23:05:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-moksh-ear-cuff-earrings"/>
+    <title>Aham Brahmasmi Moksh Ear Cuff Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-moksh-ear-cuff-earrings-vmjai43124-ms-20201205-1058-1tv9ih6.jpg?v=1653672924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Ear cuff style earrings featuring a “Moksh” inscription and inspired by ancient Indian texts and Yogic principles. Lightly embellished and fashioned out of brass, the ear cuffs have been given an oxidised plating. Wear with Indo-Western and Bohemian looks.</p><p></p><li>Weight (Gms): 9.2</li><li>Size (LxW)(Inch): 3*0.4</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124111910</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Stud</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399128301734</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI43124</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399128105126</id>
+    <published>2022-05-27T23:05:05+05:30</published>
+    <updated>2022-05-27T23:05:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-om-drop-earrings"/>
+    <title>Aham Brahmasmi OM Drop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-om-drop-earrings-vmjai43122-ms-20201205-1058-1g3x79f.jpg?v=1653672910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inspired by the Yogix principles of self exploration and oneness with the universe, these drop earrings have been fashioned out of brass. Adorned with Rudraksha beads, the pair features OM inscriptions. Oxidised plated and a good match for casual looks of all kinds.</p><p></p><li>Weight (Gms): 9.13</li><li>Size (LxW)(Inch): 4.6*0.45</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124111897</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Dangler</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399128105126</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI43122</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399128039590</id>
+    <published>2022-05-27T23:04:54+05:30</published>
+    <updated>2022-05-27T23:04:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-om-shanti-earrings"/>
+    <title>Aham Brahmasmi Om Shanti Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-om-shanti-earrings-vmjai43121-ms-20201205-19770-juhlly.jpg?v=1653672902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            528.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Brass earrings featuring “Om Shanti” inscription, inspired by the concepts of Yoga, self exploration and ancient Indian texts. This oxidised plated pair has been adorned with Rudraksha beads. Wear the enamelled earrings with a casual ethic dress.</p><p></p><li>Weight (Gms): 16.52</li><li>Size (LxW)(Inch): 2*1</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124111880</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Stud</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399128039590</id>
+      <title>Default Title</title>
+      <s:price currency="INR">528.00</s:price>
+      <s:sku>VMJAI43121</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399127842982</id>
+    <published>2022-05-27T23:04:40+05:30</published>
+    <updated>2022-05-27T23:04:40+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-inscription-round-statement-earrings"/>
+    <title>Aham Brahmasmi Inscription Round Statement Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-inscription-round-statement-earrings-vmjai43119-ms-20201205-19770-1wi9u8g.jpg?v=1653672885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            493.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inspired by the yogic principles of oneness with the universe and self exploration, these round statement earrings have been fashioned out of brass. Enamelled and oxidised plated, the pair features an “Aham Brahmasmi” inscription. Wear with an Indo-Western or Bohemian dress.</p><p></p><li>Weight (Gms): 14.44</li><li>Size (LxW)(Inch): 1.6*1.6</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124111866</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Stud</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399127842982</id>
+      <title>Default Title</title>
+      <s:price currency="INR">493.00</s:price>
+      <s:sku>VMJAI43119</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399127744678</id>
+    <published>2022-05-27T23:04:35+05:30</published>
+    <updated>2022-05-27T23:04:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-nirvana-earrings"/>
+    <title>Aham Brahmasmi Nirvana Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-nirvana-earrings-vmjai43118-ms-20201205-1058-1raj7vi.jpg?v=1653672880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Drop earrings inspired by the yogic principles of self exploration and oneness with the universe. Featuring a “Nirvana” inscription, the pair has been fashioned out of brass and adorned with Rudraksha beads. Wear the oxidised plated earrings with a casual kurta and jeans attire.</p><p></p><li>Weight (Gms): 19.22</li><li>Size (LxW)(Inch): 2.9*0.75</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124111859</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Dangler</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399127744678</id>
+      <title>Default Title</title>
+      <s:price currency="INR">549.00</s:price>
+      <s:sku>VMJAI43118</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399127613606</id>
+    <published>2022-05-27T23:04:29+05:30</published>
+    <updated>2022-05-27T23:04:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-shakti-rudraksha-bead-earrings"/>
+    <title>Aham Brahmasmi Shakti Rudraksha Bead Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-shakti-rudraksha-bead-earrings-vmjai43117-ms-20201205-19770-1d7wkhu.jpg?v=1654257909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Yogic principles of oneness with the universe and self exploration have inspired these “Shakti” inscription earrings, which have been fashion out of brass. The oxidised plated pair has been adorned with Rudraksha beads. Good for casual ethnic and Indo-Western looks.</p><p></p><li>Weight (Gms): 14.76</li><li>Size (LxW)(Inch): 3.5*0.95</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124111842</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Dangler</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399127613606</id>
+      <title>Default Title</title>
+      <s:price currency="INR">449.00</s:price>
+      <s:sku>VMJAI43117</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399127253158</id>
+    <published>2022-05-27T23:04:13+05:30</published>
+    <updated>2022-05-27T23:04:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-shakti-and-trishul-earrings"/>
+    <title>Aham Brahmasmi Shakti and Trishul Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-shakti-and-trishul-earrings-vmjai43115-ms-20201205-19770-1tr2rxf.jpg?v=1653672859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inspired by ancient Indian texts and Yogic principles of self exploration and oneness with the universe, these “Shakti” inscription and Trishul motif earrings have been fashioned out of brass. Wear the oxidised plated pair with a casual saree, kurta or Bohemian dress.</p><p></p><li>Weight (Gms): 16.14</li><li>Size (LxW)(Inch): 2*1.15</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124111828</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Stud</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399127253158</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI43115</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399127154854</id>
+    <published>2022-05-27T23:04:06+05:30</published>
+    <updated>2022-05-27T23:04:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/aham-brahmasmi-moksh-rudraksha-beads-earrings"/>
+    <title>Aham Brahmasmi Moksh Rudraksha Beads Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/aham-brahmasmi-moksh-rudraksha-beads-earrings-vmjai43114-ms-20201205-1058-xdojjo.jpg?v=1653672852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Adorned with Rudraksha beads and featuring a “Moksh” inscription, these enamelled earrings have been inspired by ancient Indian texts and Yogic principles. Made from brass and oxidised plated, the earrings can be paired with casual Indian looks.</p><p></p><li>Weight (Gms): 5</li><li>Size (LxW)(Inch): 1.2*0.8</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124111811</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Aham Brahmasmi</s:tag>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>product-Groups_Aham_Brahmasmi</s:tag>
+    <s:tag>Stud</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399127154854</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI43114</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

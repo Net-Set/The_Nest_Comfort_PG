@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:21:16	16/16	---M--	403	error ('Forbidden')	text/plain	date:Thu,%2030%20Mar%202023%2008:51:16%20GMT	https://preview.themeforest.net/item/arch-decor-interior-design-architecture-and-building-business-html5-template/full_screen_preview/21382880	C:/My%20Web%20Sites/arch_1/preview.themeforest.net/item/arch-decor-interior-design-architecture-and-building-business-html5-template/full_screen_preview/21382880.0.delayed	(from )
+14:21:17	16/16	---M--	403	error ('Forbidden')	text/plain	date:Thu,%2030%20Mar%202023%2008:51:16%20GMT	https://preview.themeforest.net/robots.txt		(from )

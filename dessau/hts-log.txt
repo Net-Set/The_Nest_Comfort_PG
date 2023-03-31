@@ -1,0 +1,579 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 30 Mar 2023 12:26:47 at https://dessau.qodeinteractive.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dessau.qodeinteractive.com/ -O1 "C:\My Web Sites\dessau" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:30:15	Error: 	"Not Found" (404) at link https://dessau.qodeinteractive.com/xmlrpc.php?rsd (from https://dessau.qodeinteractive.com/)
+12:40:25	Warning: 	Found for https://dessau.qodeinteractive.com/checkout/
+12:40:25	Warning: 	File has moved from https://dessau.qodeinteractive.com/checkout/ to https://dessau.qodeinteractive.com/cart/
+12:42:43	Warning: 	Link https://dessau.qodeinteractive.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:42:52	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=350
+12:42:52	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=350 to https://dessau.qodeinteractive.com/architecture-studio/
+12:43:47	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1952
+12:43:47	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1952 to https://dessau.qodeinteractive.com/portfolio-masonry/
+12:44:57	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1484
+12:44:57	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1484 to https://dessau.qodeinteractive.com/uncovering-projects/
+12:44:57	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=363
+12:44:57	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=363 to https://dessau.qodeinteractive.com/category-columns/
+12:46:23	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=546
+12:46:23	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=546 to https://dessau.qodeinteractive.com/metro-showcase/
+12:46:33	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=616
+12:46:33	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=616 to https://dessau.qodeinteractive.com/interior-design/
+12:46:59	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2097
+12:46:59	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2097 to https://dessau.qodeinteractive.com/portfolio-metro/
+12:47:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2632
+12:47:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2632 to https://dessau.qodeinteractive.com/decor-studio/
+12:47:50	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2197
+12:47:50	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2197 to https://dessau.qodeinteractive.com/architect-portfolio/
+12:49:02	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1459
+12:49:02	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1459 to https://dessau.qodeinteractive.com/fullscreen-projects/
+12:49:10	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1883
+12:49:10	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1883 to https://dessau.qodeinteractive.com/project-gallery/
+12:49:50	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=3460
+12:49:50	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=3460 to https://dessau.qodeinteractive.com/horizontal-showcase/
+12:49:50	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=3271
+12:49:50	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=3271 to https://dessau.qodeinteractive.com/landing/
+12:49:50	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=854
+12:49:50	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=854 to https://dessau.qodeinteractive.com/about-us/
+12:49:50	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=195
+12:49:50	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=195 to https://dessau.qodeinteractive.com/about-me/
+12:50:00	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=72
+12:50:00	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=72 to https://dessau.qodeinteractive.com/meet-the-team/
+12:50:00	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1080
+12:50:00	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1080 to https://dessau.qodeinteractive.com/our-studio/
+12:50:00	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2343
+12:50:00	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2343 to https://dessau.qodeinteractive.com/our-offices/
+12:50:00	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2385
+12:50:00	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2385 to https://dessau.qodeinteractive.com/what-we-offer/
+12:50:00	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2414
+12:50:00	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2414 to https://dessau.qodeinteractive.com/services-pricing/
+12:50:00	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1001
+12:50:00	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1001 to https://dessau.qodeinteractive.com/contact-us/
+12:50:00	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1550
+12:50:00	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1550 to https://dessau.qodeinteractive.com/faq-page/
+12:50:00	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1906
+12:50:00	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1906 to https://dessau.qodeinteractive.com/portfolio/standard/
+12:50:03	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2685
+12:50:03	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2685 to https://dessau.qodeinteractive.com/portfolio/gallery/
+12:50:03	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2694
+12:50:03	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2694 to https://dessau.qodeinteractive.com/portfolio/gallery-joined/
+12:50:03	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2718
+12:50:03	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2718 to https://dessau.qodeinteractive.com/portfolio/pinterest/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2702
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2702 to https://dessau.qodeinteractive.com/portfolio/masonry/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2716
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2716 to https://dessau.qodeinteractive.com/portfolio/masonry-joined/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2740
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2740 to https://dessau.qodeinteractive.com/portfolio/scattered/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2747
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2747 to https://dessau.qodeinteractive.com/portfolio/motion-gallery/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2767
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2767 to https://dessau.qodeinteractive.com/portfolio/two-columns/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2775
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2775 to https://dessau.qodeinteractive.com/portfolio/three-columns/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2799
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2799 to https://dessau.qodeinteractive.com/portfolio/three-columns-wide/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2778
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2778 to https://dessau.qodeinteractive.com/portfolio/four-columns/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2816
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2816 to https://dessau.qodeinteractive.com/portfolio/four-columns-wide/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2783
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2783 to https://dessau.qodeinteractive.com/portfolio/five-columns/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2790
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2790 to https://dessau.qodeinteractive.com/portfolio/five-columns-wide/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2797
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2797 to https://dessau.qodeinteractive.com/portfolio/six-columns-wide/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=3510
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=3510 to https://dessau.qodeinteractive.com/portfolio/standard-lift/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=3520
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=3520 to https://dessau.qodeinteractive.com/portfolio/standard-trim/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=3547
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=3547 to https://dessau.qodeinteractive.com/portfolio/gallery-overlay/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=3595
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=3595 to https://dessau.qodeinteractive.com/portfolio/gallery-simple-overlay/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=3606
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=3606 to https://dessau.qodeinteractive.com/portfolio/gallery-slide-up/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=3602
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=3602 to https://dessau.qodeinteractive.com/portfolio/gallery-center-cross/
+12:50:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=293
+12:50:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=293 to https://dessau.qodeinteractive.com/portfolio-item/art-museum/
+12:50:05	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=290
+12:50:05	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=290 to https://dessau.qodeinteractive.com/portfolio-item/white-apartment/
+12:50:05	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=288
+12:50:05	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=288 to https://dessau.qodeinteractive.com/portfolio-item/office-design/
+12:50:05	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=238
+12:50:05	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=238 to https://dessau.qodeinteractive.com/portfolio-item/campbell-pavillion/
+12:50:05	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=234
+12:50:05	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=234 to https://dessau.qodeinteractive.com/portfolio-item/wooden-house/
+12:50:05	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=204
+12:50:05	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=204 to https://dessau.qodeinteractive.com/portfolio-item/modern-apartment/
+12:50:05	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=236
+12:50:05	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=236 to https://dessau.qodeinteractive.com/portfolio-item/c37-office/
+12:50:05	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=217
+12:50:05	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=217 to https://dessau.qodeinteractive.com/portfolio-item/minimalist-kitchen/
+12:50:05	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=100
+12:50:05	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=100 to https://dessau.qodeinteractive.com/blog/standard-right-sidebar/
+12:50:39	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=721
+12:50:39	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=721 to https://dessau.qodeinteractive.com/blog/standard-left-sidebar/
+12:50:39	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=723
+12:50:39	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=723 to https://dessau.qodeinteractive.com/blog/standard-without-sidebar/
+12:50:40	Error: 	"Not Found" (404) at link https://dessau.qodeinteractive.com/xmlrpc.php (from https://dessau.qodeinteractive.com/bauhaus/)
+12:50:40	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=58
+12:50:40	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=58 to https://dessau.qodeinteractive.com/bauhaus/
+12:50:40	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=61
+12:50:40	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=61 to https://dessau.qodeinteractive.com/minimalism/
+12:50:41	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=82
+12:50:41	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=82 to https://dessau.qodeinteractive.com/famous-architects/
+12:50:42	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=52
+12:50:42	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=52 to https://dessau.qodeinteractive.com/modern-architecture/
+12:50:42	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=317
+12:50:42	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=317 to https://dessau.qodeinteractive.com/scandinavian-house/
+12:50:47	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=326
+12:50:47	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=326 to https://dessau.qodeinteractive.com/home-offices/
+12:54:59	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1850
+12:54:59	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1850 to https://dessau.qodeinteractive.com/product/stool/
+12:56:07	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1963
+12:56:07	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1963 to https://dessau.qodeinteractive.com/product-list/three-columns/
+12:57:16	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2001
+12:57:16	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2001 to https://dessau.qodeinteractive.com/product-list/four-columns/
+12:57:19	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2005
+12:57:19	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2005 to https://dessau.qodeinteractive.com/product-list/full-width/
+12:57:21	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1699
+12:57:21	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1699 to https://dessau.qodeinteractive.com/my-account/
+12:57:22	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1697
+12:57:22	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1697 to https://dessau.qodeinteractive.com/cart/
+12:57:22	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2933
+12:57:22	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2933 to https://dessau.qodeinteractive.com/elements/accordions/
+12:57:25	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2996
+12:57:25	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2996 to https://dessau.qodeinteractive.com/elements/tabs/
+12:57:25	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=3069
+12:57:25	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=3069 to https://dessau.qodeinteractive.com/elements/clients/
+12:57:25	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=668
+12:57:25	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=668 to https://dessau.qodeinteractive.com/elements/buttons/
+12:57:25	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=3127
+12:57:25	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=3127 to https://dessau.qodeinteractive.com/elements/icon-with-text/
+12:57:25	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=3250
+12:57:25	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=3250 to https://dessau.qodeinteractive.com/elements/contact-form/
+12:57:25	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2282
+12:57:25	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2282 to https://dessau.qodeinteractive.com/elements/testimonials/
+12:57:25	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2820
+12:57:25	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2820 to https://dessau.qodeinteractive.com/elements/team/
+12:57:25	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2851
+12:57:25	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2851 to https://dessau.qodeinteractive.com/elements/parallax-section/
+12:57:25	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1154
+12:57:25	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1154 to https://dessau.qodeinteractive.com/elements/blog-list/
+12:57:27	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2858
+12:57:27	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2858 to https://dessau.qodeinteractive.com/elements/shop-list/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1651
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1651 to https://dessau.qodeinteractive.com/elements/image-info-section/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2504
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2504 to https://dessau.qodeinteractive.com/elements/pricing-tables/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2449
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2449 to https://dessau.qodeinteractive.com/elements/progress-bar/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2514
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2514 to https://dessau.qodeinteractive.com/elements/counters-countdown/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2561
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2561 to https://dessau.qodeinteractive.com/elements/pie-chart/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2656
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2656 to https://dessau.qodeinteractive.com/elements/google-maps/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=5
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=5 to https://dessau.qodeinteractive.com/elements/headings/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1948
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1948 to https://dessau.qodeinteractive.com/elements/columns/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2048
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2048 to https://dessau.qodeinteractive.com/elements/section-title/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2141
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2141 to https://dessau.qodeinteractive.com/elements/blockquote/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2156
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2156 to https://dessau.qodeinteractive.com/elements/dropcaps-highlights/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2213
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2213 to https://dessau.qodeinteractive.com/elements/separators/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2680
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2680 to https://dessau.qodeinteractive.com/elements/custom-font/
+12:57:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=215
+12:57:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=215 to https://dessau.qodeinteractive.com/portfolio-item/futuristic-archways/
+12:57:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=138
+12:57:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=138 to https://dessau.qodeinteractive.com/portfolio-item/wood-based-approach/
+12:57:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=109
+12:57:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=109 to https://dessau.qodeinteractive.com/portfolio-item/a-symbiotic-design/
+12:57:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=233
+12:57:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=233 to https://dessau.qodeinteractive.com/hotels/
+12:57:36	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=89
+12:57:36	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=89 to https://dessau.qodeinteractive.com/furniture/
+12:57:37	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=237
+12:57:37	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=237 to https://dessau.qodeinteractive.com/buildings/
+12:57:37	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=292
+12:57:37	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=292 to https://dessau.qodeinteractive.com/portfolio-item/bakery-design/
+12:57:37	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=105
+12:57:37	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=105 to https://dessau.qodeinteractive.com/best-home-ideas/
+12:57:37	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=94
+12:57:37	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=94 to https://dessau.qodeinteractive.com/top-10-interior-designs/
+12:57:37	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1
+12:57:37	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1 to https://dessau.qodeinteractive.com/focus-on-details/
+12:57:38	Warning: 	File not parsed, looks like binary: https://dessau.qodeinteractive.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+12:57:38	Warning: 	File not parsed, looks like binary: https://dessau.qodeinteractive.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+12:57:39	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=341
+12:57:39	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=341 to https://dessau.qodeinteractive.com/portfolio-item/cube-house/
+12:57:40	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=349
+12:57:40	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=349 to https://dessau.qodeinteractive.com/portfolio-item/design-studio/
+12:57:42	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=352
+12:57:42	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=352 to https://dessau.qodeinteractive.com/portfolio-item/house-in-the-forest/
+12:57:43	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=354
+12:57:43	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=354 to https://dessau.qodeinteractive.com/portfolio-item/eco-home/
+12:57:43	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=353
+12:57:43	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=353 to https://dessau.qodeinteractive.com/portfolio-item/pavillion/
+12:57:43	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=355
+12:57:43	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=355 to https://dessau.qodeinteractive.com/portfolio-item/linear-home/
+12:57:43	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=356
+12:57:43	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=356 to https://dessau.qodeinteractive.com/portfolio-item/social-houses/
+12:57:45	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1957
+12:57:45	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1957 to https://dessau.qodeinteractive.com/portfolio-item/brand-new-museum/
+12:57:47	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1967
+12:57:47	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1967 to https://dessau.qodeinteractive.com/portfolio-item/new-shopping-mall/
+12:57:47	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=5102
+12:57:47	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=5102 to https://dessau.qodeinteractive.com/portfolio-item/commercial-building/
+12:57:47	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=5105
+12:57:47	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=5105 to https://dessau.qodeinteractive.com/portfolio-item/new-cultural-center/
+12:57:47	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2092
+12:57:47	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2092 to https://dessau.qodeinteractive.com/portfolio-item/shopping-center/
+12:57:47	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=5183
+12:57:47	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=5183 to https://dessau.qodeinteractive.com/portfolio-item/public-space/
+12:57:53	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2007
+12:57:53	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2007 to https://dessau.qodeinteractive.com/portfolio-item/atrium-yard/
+12:57:58	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2027
+12:57:58	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2027 to https://dessau.qodeinteractive.com/portfolio-item/performing-center/
+12:58:01	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2059
+12:58:01	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2059 to https://dessau.qodeinteractive.com/portfolio-item/offices/
+12:58:01	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2066
+12:58:01	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2066 to https://dessau.qodeinteractive.com/portfolio-item/structure/
+12:58:01	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2071
+12:58:01	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2071 to https://dessau.qodeinteractive.com/portfolio-item/mountain-hotel/
+12:58:02	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2073
+12:58:02	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2073 to https://dessau.qodeinteractive.com/portfolio-item/laboratory/
+12:58:02	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2078
+12:58:02	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2078 to https://dessau.qodeinteractive.com/portfolio-item/meditation-center/
+12:58:02	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2080
+12:58:02	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2080 to https://dessau.qodeinteractive.com/portfolio-item/competition/
+12:58:02	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2082
+12:58:02	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2082 to https://dessau.qodeinteractive.com/portfolio-item/private-hotel/
+12:58:02	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=366
+12:58:02	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=366 to https://dessau.qodeinteractive.com/portfolio-item/hotel-in-forest/
+12:58:03	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1733
+12:58:03	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1733 to https://dessau.qodeinteractive.com/portfolio-item/clark-offices/
+12:58:03	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1734
+12:58:03	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1734 to https://dessau.qodeinteractive.com/portfolio-item/family-house/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1735
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1735 to https://dessau.qodeinteractive.com/portfolio-item/business-center/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1751
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1751 to https://dessau.qodeinteractive.com/portfolio-item/w-house/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=4280
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=4280 to https://dessau.qodeinteractive.com/portfolio-item/new-museum/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1803
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1803 to https://dessau.qodeinteractive.com/portfolio-item/urban-landscape/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1804
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1804 to https://dessau.qodeinteractive.com/portfolio-item/pavillion-on-lake/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1805
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1805 to https://dessau.qodeinteractive.com/portfolio-item/gutierrez-offices/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1808
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1808 to https://dessau.qodeinteractive.com/portfolio-item/bookstore/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=4276
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=4276 to https://dessau.qodeinteractive.com/portfolio-item/wood-facade/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=4277
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=4277 to https://dessau.qodeinteractive.com/portfolio-item/stone-wall/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1809
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1809 to https://dessau.qodeinteractive.com/portfolio-item/wood-house/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1810
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1810 to https://dessau.qodeinteractive.com/portfolio-item/gardner-studio/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1811
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1811 to https://dessau.qodeinteractive.com/portfolio-item/dining-room/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1818
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1818 to https://dessau.qodeinteractive.com/portfolio-item/l-house/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=4279
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=4279 to https://dessau.qodeinteractive.com/portfolio-item/office-interior/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=4285
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=4285 to https://dessau.qodeinteractive.com/portfolio-item/yoga-studio/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1824
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1824 to https://dessau.qodeinteractive.com/portfolio-item/science-center/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1834
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1834 to https://dessau.qodeinteractive.com/portfolio-item/garden-house/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1839
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1839 to https://dessau.qodeinteractive.com/portfolio-item/garden-pavillion/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1851
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1851 to https://dessau.qodeinteractive.com/portfolio-item/white-house/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=4282
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=4282 to https://dessau.qodeinteractive.com/portfolio-item/wooden-boards/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=4283
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=4283 to https://dessau.qodeinteractive.com/portfolio-item/small-house/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1853
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1853 to https://dessau.qodeinteractive.com/portfolio-item/vacation-house/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1854
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1854 to https://dessau.qodeinteractive.com/portfolio-item/industrial-design/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1864
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1864 to https://dessau.qodeinteractive.com/portfolio-item/wood-texture/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1865
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1865 to https://dessau.qodeinteractive.com/portfolio-item/stone-facade/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=4284
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=4284 to https://dessau.qodeinteractive.com/portfolio-item/summer-house/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=4273
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=4273 to https://dessau.qodeinteractive.com/portfolio-item/new-residence/
+12:58:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=68
+12:58:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=68 to https://dessau.qodeinteractive.com/skyscraper/
+12:58:05	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=291
+12:58:05	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=291 to https://dessau.qodeinteractive.com/concrete-facade/
+12:58:13	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=609
+12:58:13	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=609 to https://dessau.qodeinteractive.com/portfolio-item/stylish-design/
+12:58:16	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=620
+12:58:16	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=620 to https://dessau.qodeinteractive.com/portfolio-item/marble-interior/
+12:58:16	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1530
+12:58:16	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1530 to https://dessau.qodeinteractive.com/portfolio-item/luxury-bathroom/
+12:58:16	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1529
+12:58:16	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1529 to https://dessau.qodeinteractive.com/portfolio-item/wooden-furniture/
+12:58:16	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1704
+12:58:16	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1704 to https://dessau.qodeinteractive.com/portfolio-item/the-renovation/
+12:58:16	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1707
+12:58:16	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1707 to https://dessau.qodeinteractive.com/portfolio-item/interior-design/
+12:58:16	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2398
+12:58:16	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2398 to https://dessau.qodeinteractive.com/portfolio-item/seaside-house/
+12:58:18	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2114
+12:58:18	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2114 to https://dessau.qodeinteractive.com/portfolio-item/concrete-factory/
+12:58:18	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2134
+12:58:18	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2134 to https://dessau.qodeinteractive.com/portfolio-item/white-facade/
+12:58:18	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2140
+12:58:18	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2140 to https://dessau.qodeinteractive.com/portfolio-item/glass-facade/
+12:58:23	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2144
+12:58:23	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2144 to https://dessau.qodeinteractive.com/portfolio-item/precast-concrete/
+12:58:23	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2152
+12:58:23	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2152 to https://dessau.qodeinteractive.com/portfolio-item/concrete-building/
+12:58:23	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2153
+12:58:23	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2153 to https://dessau.qodeinteractive.com/portfolio-item/stone-house/
+12:58:23	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2168
+12:58:23	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2168 to https://dessau.qodeinteractive.com/portfolio-item/photography-museum/
+12:58:23	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2172
+12:58:23	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2172 to https://dessau.qodeinteractive.com/portfolio-item/minimalist-facade/
+12:58:23	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2177
+12:58:23	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2177 to https://dessau.qodeinteractive.com/portfolio-item/container-house/
+12:58:23	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2179
+12:58:23	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2179 to https://dessau.qodeinteractive.com/portfolio-item/concrete-walls/
+12:58:23	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2181
+12:58:23	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2181 to https://dessau.qodeinteractive.com/portfolio-item/long-house/
+12:58:23	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=324
+12:58:23	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=324 to https://dessau.qodeinteractive.com/portfolio-item/black-chair/
+12:58:26	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=325
+12:58:26	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=325 to https://dessau.qodeinteractive.com/portfolio-item/coffee-table/
+12:58:26	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=327
+12:58:26	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=327 to https://dessau.qodeinteractive.com/portfolio-item/black-and-white-table/
+12:58:26	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=331
+12:58:26	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=331 to https://dessau.qodeinteractive.com/portfolio-item/wooden-table/
+12:58:26	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=332
+12:58:26	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=332 to https://dessau.qodeinteractive.com/portfolio-item/wire-table/
+12:58:26	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=334
+12:58:26	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=334 to https://dessau.qodeinteractive.com/portfolio-item/black-table/
+12:58:26	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2235
+12:58:26	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2235 to https://dessau.qodeinteractive.com/portfolio-item/opera/
+12:58:27	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2267
+12:58:27	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2267 to https://dessau.qodeinteractive.com/portfolio-item/n-apartment/
+12:58:27	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2270
+12:58:27	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2270 to https://dessau.qodeinteractive.com/portfolio-item/steel-stairs/
+12:58:27	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2271
+12:58:27	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2271 to https://dessau.qodeinteractive.com/portfolio-item/art-school/
+12:58:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2272
+12:58:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2272 to https://dessau.qodeinteractive.com/portfolio-item/my-exhibition/
+12:58:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2273
+12:58:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2273 to https://dessau.qodeinteractive.com/portfolio-item/staircase/
+12:58:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2275
+12:58:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2275 to https://dessau.qodeinteractive.com/portfolio-item/the-gallery/
+12:58:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2278
+12:58:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2278 to https://dessau.qodeinteractive.com/portfolio-item/construction/
+12:58:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2279
+12:58:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2279 to https://dessau.qodeinteractive.com/portfolio-item/living-room/
+12:58:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2280
+12:58:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2280 to https://dessau.qodeinteractive.com/portfolio-item/office-lobby/
+12:58:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2287
+12:58:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2287 to https://dessau.qodeinteractive.com/portfolio-item/new-theatre/
+12:58:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2292
+12:58:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2292 to https://dessau.qodeinteractive.com/portfolio-item/shoes-store/
+12:58:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2295
+12:58:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2295 to https://dessau.qodeinteractive.com/portfolio-item/farm-school/
+12:58:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2314
+12:58:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2314 to https://dessau.qodeinteractive.com/portfolio-item/corporate/
+12:58:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2315
+12:58:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2315 to https://dessau.qodeinteractive.com/portfolio-item/grand-stairs/
+12:58:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2319
+12:58:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2319 to https://dessau.qodeinteractive.com/portfolio-item/pool-house/
+12:58:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2322
+12:58:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2322 to https://dessau.qodeinteractive.com/portfolio-item/the-school/
+12:58:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2323
+12:58:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2323 to https://dessau.qodeinteractive.com/portfolio-item/big-office/
+12:58:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2325
+12:58:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2325 to https://dessau.qodeinteractive.com/portfolio-item/columns/
+12:58:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2326
+12:58:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2326 to https://dessau.qodeinteractive.com/portfolio-item/art-theatre/
+12:58:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2333
+12:58:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2333 to https://dessau.qodeinteractive.com/portfolio-item/apartments/
+12:58:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2337
+12:58:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2337 to https://dessau.qodeinteractive.com/portfolio-item/the-offices/
+12:58:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2339
+12:58:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2339 to https://dessau.qodeinteractive.com/portfolio-item/atrium/
+12:58:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=2341
+12:58:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=2341 to https://dessau.qodeinteractive.com/portfolio-item/water-club/
+12:58:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1462
+12:58:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1462 to https://dessau.qodeinteractive.com/portfolio-item/high-school/
+12:58:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1466
+12:58:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1466 to https://dessau.qodeinteractive.com/portfolio-item/cultural-center/
+12:58:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1467
+12:58:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1467 to https://dessau.qodeinteractive.com/portfolio-item/creative-hub/
+12:58:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1866
+12:58:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1866 to https://dessau.qodeinteractive.com/portfolio-item/white-stairs/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1882
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1882 to https://dessau.qodeinteractive.com/portfolio-item/contemporary-art/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1887
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1887 to https://dessau.qodeinteractive.com/portfolio-item/national-theatre/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1888
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1888 to https://dessau.qodeinteractive.com/portfolio-item/science-museum/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1889
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1889 to https://dessau.qodeinteractive.com/portfolio-item/bonnet-theatre/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1890
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1890 to https://dessau.qodeinteractive.com/portfolio-item/museum-competition/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1891
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1891 to https://dessau.qodeinteractive.com/portfolio-item/open-museum/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1892
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1892 to https://dessau.qodeinteractive.com/portfolio-item/gallery-of-art/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1893
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1893 to https://dessau.qodeinteractive.com/portfolio-item/the-bank-museum/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1894
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1894 to https://dessau.qodeinteractive.com/portfolio-item/photo-gallery/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1895
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1895 to https://dessau.qodeinteractive.com/portfolio-item/fine-arts-museum/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1896
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1896 to https://dessau.qodeinteractive.com/portfolio-item/temporary-museum/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1897
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1897 to https://dessau.qodeinteractive.com/portfolio-item/terrace-center/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1898
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1898 to https://dessau.qodeinteractive.com/portfolio-item/black-and-white-art/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1900
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1900 to https://dessau.qodeinteractive.com/portfolio-item/museum-offices/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1901
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1901 to https://dessau.qodeinteractive.com/portfolio-item/art-center-interior/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=298
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=298 to https://dessau.qodeinteractive.com/portfolio-item/wooden-houses/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=303
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=303 to https://dessau.qodeinteractive.com/portfolio-item/the-long-house/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=304
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=304 to https://dessau.qodeinteractive.com/portfolio-item/wooden-interior/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=306
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=306 to https://dessau.qodeinteractive.com/portfolio-item/wooden-facade/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1904
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1904 to https://dessau.qodeinteractive.com/portfolio/
+12:58:34	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=4232
+12:58:34	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=4232 to https://dessau.qodeinteractive.com/blog/
+12:58:36	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=107
+12:58:36	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=107 to https://dessau.qodeinteractive.com/kitchen-ideas/
+12:58:36	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=66
+12:58:36	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=66 to https://dessau.qodeinteractive.com/green-roofs/
+12:58:41	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=305
+12:58:41	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=305 to https://dessau.qodeinteractive.com/material-exhibition/
+12:58:42	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1740
+12:58:42	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1740 to https://dessau.qodeinteractive.com/product/vase/
+12:59:26	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=6e62a992c676f611616097dbea8ea030&_wpnonce=f2a1fe2fcc
+12:59:26	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=6e62a992c676f611616097dbea8ea030&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product-list/?removed_item=1
+12:59:26	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1742
+12:59:26	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1742 to https://dessau.qodeinteractive.com/product/bench/
+13:00:04	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1746
+13:00:04	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1746 to https://dessau.qodeinteractive.com/product/tea-set/
+13:00:32	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=11c484ea9305ea4c7bb6b2e6d570d466&_wpnonce=f2a1fe2fcc
+13:00:32	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=11c484ea9305ea4c7bb6b2e6d570d466&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product-list/?removed_item=1
+13:00:40	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1752
+13:00:40	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1752 to https://dessau.qodeinteractive.com/product/garden-set/
+13:01:03	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=d2cdf047a6674cef251d56544a3cf029&_wpnonce=f2a1fe2fcc
+13:01:03	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=d2cdf047a6674cef251d56544a3cf029&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product-list/?removed_item=1
+13:01:03	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1757
+13:01:03	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1757 to https://dessau.qodeinteractive.com/product/coffee-table/
+13:01:31	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=b865367fc4c0845c0682bd466e6ebf4c&_wpnonce=f2a1fe2fcc
+13:01:31	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=b865367fc4c0845c0682bd466e6ebf4c&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product-list/?removed_item=1
+13:01:31	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1783
+13:01:31	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1783 to https://dessau.qodeinteractive.com/product/flower-pot/
+13:02:19	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=db957c626a8cd7a27231adfbf51e20eb&_wpnonce=f2a1fe2fcc
+13:02:19	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=db957c626a8cd7a27231adfbf51e20eb&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product-list/?removed_item=1
+13:02:19	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1788
+13:02:19	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1788 to https://dessau.qodeinteractive.com/product/night-table/
+13:02:56	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=c8cbd669cfb2f016574e9d147092b5bb&_wpnonce=f2a1fe2fcc
+13:02:56	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=c8cbd669cfb2f016574e9d147092b5bb&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product-list/?removed_item=1
+13:02:56	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1793
+13:02:56	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1793 to https://dessau.qodeinteractive.com/product/bowl/
+13:03:20	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=ac5dab2e99eee9cf9ec672e383691302&_wpnonce=f2a1fe2fcc
+13:03:20	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=ac5dab2e99eee9cf9ec672e383691302&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product-list/?removed_item=1
+13:03:25	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1798
+13:03:25	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1798 to https://dessau.qodeinteractive.com/product/side-chair/
+13:03:56	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=f542eae1949358e25d8bfeefe5b199f1&_wpnonce=f2a1fe2fcc
+13:03:56	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=f542eae1949358e25d8bfeefe5b199f1&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product-list/?removed_item=1
+13:04:05	Error: 	Exit requested by shell or user
+13:04:15	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1813
+13:04:15	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1813 to https://dessau.qodeinteractive.com/product/table/
+13:04:16	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1819
+13:04:16	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1819 to https://dessau.qodeinteractive.com/product/bed/
+13:04:18	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=ed519dacc89b2bead3f453b0b05a4a8b&_wpnonce=f2a1fe2fcc
+13:04:18	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=ed519dacc89b2bead3f453b0b05a4a8b&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product-list/?removed_item=1
+13:04:18	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1825
+13:04:18	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1825 to https://dessau.qodeinteractive.com/product/candle-set/
+13:04:20	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/product-list/page/1/
+13:04:20	Warning: 	File has moved from https://dessau.qodeinteractive.com/product-list/page/1/ to https://dessau.qodeinteractive.com/product-list/
+13:04:23	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=069654d5ce089c13f642d19f09a3d1c0&_wpnonce=f2a1fe2fcc
+13:04:23	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=069654d5ce089c13f642d19f09a3d1c0&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product/stool/?removed_item=1
+13:04:23	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1830
+13:04:23	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1830 to https://dessau.qodeinteractive.com/product/mirror/
+13:04:24	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=8c3039bd5842dca3d944faab91447818&_wpnonce=f2a1fe2fcc
+13:04:24	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=8c3039bd5842dca3d944faab91447818&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product-list/three-columns/?removed_item=1
+13:04:24	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=59bcda7c438bad7d2afffe9e2fed00be&_wpnonce=f2a1fe2fcc
+13:04:24	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=59bcda7c438bad7d2afffe9e2fed00be&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product-list/three-columns/?removed_item=1
+13:04:24	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1845
+13:04:24	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1845 to https://dessau.qodeinteractive.com/product/plates/
+13:04:25	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1852
+13:04:25	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1852 to https://dessau.qodeinteractive.com/product/ottoman/
+13:04:26	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=201d7288b4c18a679e48b31c72c30ded&_wpnonce=f2a1fe2fcc
+13:04:26	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=201d7288b4c18a679e48b31c72c30ded&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product-list/three-columns/?removed_item=1
+13:04:26	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=1840
+13:04:26	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=1840 to https://dessau.qodeinteractive.com/product/light-table/
+13:04:27	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=18
+13:04:27	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=18 to https://dessau.qodeinteractive.com/elements/
+13:04:27	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=261
+13:04:27	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=261 to https://dessau.qodeinteractive.com/dinning-room/
+13:04:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=950
+13:04:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=950 to https://dessau.qodeinteractive.com/portfolio-item/public-library/
+13:04:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=5139
+13:04:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=5139 to https://dessau.qodeinteractive.com/portfolio-item/gallery-model/
+13:04:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=5188
+13:04:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=5188 to https://dessau.qodeinteractive.com/portfolio-item/facade-structures/
+13:04:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=951
+13:04:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=951 to https://dessau.qodeinteractive.com/portfolio-item/art-gallery/
+13:04:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=938
+13:04:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=938 to https://dessau.qodeinteractive.com/portfolio-item/technical-center/
+13:04:28	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=295
+13:04:28	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=295 to https://dessau.qodeinteractive.com/architecture-awards/
+13:04:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=337
+13:04:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=337 to https://dessau.qodeinteractive.com/portfolio-item/gray-chair/
+13:04:29	Warning: 	Moved Permanently for https://dessau.qodeinteractive.com/?p=3742
+13:04:29	Warning: 	File has moved from https://dessau.qodeinteractive.com/?p=3742 to https://dessau.qodeinteractive.com/portfolio-item/chair-design/
+13:04:32	Warning: 	File not added due to mirror cancel: dessau.qodeinteractive.com/robots.txt
+13:04:32	Warning: 	Moved Permanently for dessau.qodeinteractive.com/product-list/?removed_item=1
+13:04:32	Warning: 	Redirected link is identical because of 'URL Hack' option: dessau.qodeinteractive.com/product-list/?removed_item=1 and https://dessau.qodeinteractive.com/product-list/?removed_item=1
+13:04:32	Warning: 	File has moved from dessau.qodeinteractive.com/product-list/?removed_item=1 to https://dessau.qodeinteractive.com/product-list/?removed_item=1
+13:04:33	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=54f5f4071faca32ad5285fef87b78646&_wpnonce=f2a1fe2fcc
+13:04:33	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=54f5f4071faca32ad5285fef87b78646&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product/bench/?removed_item=1
+13:04:33	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?undo_item=6e62a992c676f611616097dbea8ea030&_wpnonce=f2a1fe2fcc
+13:04:33	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?undo_item=6e62a992c676f611616097dbea8ea030&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product/bench/?add-to-cart=1757
+13:04:39	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?remove_item=442cde81694ca09a626eeddefd1b74ca&_wpnonce=f2a1fe2fcc
+13:04:39	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?remove_item=442cde81694ca09a626eeddefd1b74ca&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product/garden-set/?removed_item=1
+13:04:40	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?undo_item=b865367fc4c0845c0682bd466e6ebf4c&_wpnonce=f2a1fe2fcc
+13:04:40	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?undo_item=b865367fc4c0845c0682bd466e6ebf4c&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product/flower-pot/?add-to-cart=1746
+13:04:42	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?undo_item=db957c626a8cd7a27231adfbf51e20eb&_wpnonce=f2a1fe2fcc
+13:04:42	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?undo_item=db957c626a8cd7a27231adfbf51e20eb&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product/flower-pot/?add-to-cart=1825
+13:04:43	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?undo_item=c8cbd669cfb2f016574e9d147092b5bb&_wpnonce=f2a1fe2fcc
+13:04:43	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?undo_item=c8cbd669cfb2f016574e9d147092b5bb&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product/bowl/?add-to-cart=1845
+13:04:45	Warning: 	Found for https://dessau.qodeinteractive.com/cart/?undo_item=ac5dab2e99eee9cf9ec672e383691302&_wpnonce=f2a1fe2fcc
+13:04:45	Warning: 	File has moved from https://dessau.qodeinteractive.com/cart/?undo_item=ac5dab2e99eee9cf9ec672e383691302&_wpnonce=f2a1fe2fcc to http://dessau.qodeinteractive.com/product/side-chair/?add-to-cart=1757
+
+HTTrack Website Copier/3.49-2 mirror complete in 38 minutes 0 seconds : 2658 links scanned, 2374 files written (169705531 bytes overall) [75374099 bytes received at 33058 bytes/sec], 114083255 bytes transferred using HTTP compression in 1456 files, ratio 15%, 21.3 requests per connection
+(3 errors, 565 warnings, 0 messages)

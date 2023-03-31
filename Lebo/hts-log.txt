@@ -1,0 +1,157 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 Mar 2023 14:59:12 at https://templates.envytheme.com/lebo/default/index.html +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe -https://templates.envytheme.com/lebo/default/index.html
+(winhttrack -qwr10%e3C2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://templates.envytheme.com/lebo/default/index.html -O1 "C:\My Web Sites\Lebo" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe -https://templates.envytheme.com/lebo/default/index.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:59:46	Warning: 	Link https://templates.envytheme.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+15:02:41	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.facebook.com/tr?id=617610459866498&ev=PageView&noscript=1
+15:03:10	Error: 	"Not Found" (404) at link https://templates.envytheme.com/lebo/default/assets/css/owl.video.play.png (from https://templates.envytheme.com/lebo/default/assets/css/owl.carousel.min.css)
+15:03:11	Error: 	"Not Found" (404) at link https://templates.envytheme.com/lebo/default/gallery.html (from https://templates.envytheme.com/lebo/default/terms-of-service.html)
+15:05:28	Error: 	"Bad Request" (400) at link www.googletagmanager.com/ (from https://envytheme.com/)
+15:05:58	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://envytheme.com/)
+15:05:58	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://envytheme.com/)
+15:08:05	Error: 	Exit requested by shell or user
+15:08:06	Warning: 	File not added due to mirror cancel: https://www.linkedin.com/robots.txt
+15:08:06	Error: 	"INKApi Error" (999) at link https://www.linkedin.com/company/envytheme/ (from https://envytheme.com/)
+15:08:06	Warning: 	File not added due to mirror cancel: https://dribbble.com/robots.txt
+15:08:15	Warning: 	Link https://envytheme.com/my-account/ not scanned (follow robots meta tag)
+15:08:17	Warning: 	Found for https://envytheme.com/?add-to-cart=2349
+15:08:17	Warning: 	File has moved from https://envytheme.com/?add-to-cart=2349 to https://envytheme.com/cart/
+15:08:17	Warning: 	File not added due to mirror cancel: https://preview.envytheme.com/robots.txt
+15:08:22	Error: 	"Not Found" (404) at link https://envytheme.com/categories/ (from https://envytheme.com/)
+15:08:27	Warning: 	Found for https://envytheme.com/?add-to-cart=2698
+15:08:27	Warning: 	File has moved from https://envytheme.com/?add-to-cart=2698 to https://envytheme.com/cart/
+15:08:27	Warning: 	File not added due to mirror cancel: https://www.sitepoint.com/robots.txt
+15:08:27	Warning: 	File not added due to mirror cancel: https://www.smashingmagazine.com/robots.txt
+15:08:27	Warning: 	File not added due to mirror cancel: https://colorlib.com/robots.txt
+15:08:27	Warning: 	File not added due to mirror cancel: themeforest.net/robots.txt
+15:08:27	Warning: 	Moved Permanently for themeforest.net/
+15:08:27	Warning: 	Redirected link is identical because of 'URL Hack' option: themeforest.net/ and https://themeforest.net/
+15:08:27	Warning: 	File has moved from themeforest.net/ to https://themeforest.net/
+15:08:27	Warning: 	File not added due to mirror cancel: https://www.producthunt.com/robots.txt
+15:08:30	Warning: 	Link https://envytheme.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+15:08:30	Warning: 	File not added due to mirror cancel: https://embed.tawk.to/robots.txt
+15:08:33	Error: 	"Not Found" (404) at link https://lh6.googleusercontent.com/-2qYwnyKpmhM/AAAAAAAAAAI/AAAAAAAAAAA/RS5GUZioUrU/s44-p-k-no-ns-nd/photo.jpg (from https://www.google.com/maps/search/medical+center+in+London,+UK/@51.5118992,-0.0848015,15z/data=!3m1!4b1)
+15:08:33	Error: 	"Not Found" (404) at link https://lh6.googleusercontent.com/-BXL1UIwmMi4/AAAAAAAAAAI/AAAAAAAAAAA/gzOuepH4yZ4/s44-p-k-no-ns-nd/photo.jpg (from https://www.google.com/maps/search/medical+center+in+London,+UK/@51.5118992,-0.0848015,15z/data=!3m1!4b1)
+15:08:33	Error: 	"Not Found" (404) at link https://lh5.googleusercontent.com/-ORJQfud018A/AAAAAAAAAAI/AAAAAAAAAAA/U6uQ9EL9hbE/s44-p-k-no-ns-nd/photo.jpg (from https://www.google.com/maps/search/medical+center+in+London,+UK/@51.5118992,-0.0848015,15z/data=!3m1!4b1)
+15:08:33	Error: 	"Not Found" (404) at link https://lh3.googleusercontent.com/-BBNwmRoGmFc/AAAAAAAAAAI/AAAAAAAAAAA/xTfuK5ZuUyM/s44-p-k-no-ns-nd/photo.jpg (from https://www.google.com/maps/search/medical+center+in+London,+UK/@51.5118992,-0.0848015,15z/data=!3m1!4b1)
+15:08:33	Error: 	"Not Found" (404) at link https://lh5.googleusercontent.com/-p4TGBux3p14/AAAAAAAAAAI/AAAAAAAAAAA/Jc1WLbKTM_w/s44-p-k-no-ns-nd/photo.jpg (from https://www.google.com/maps/search/medical+center+in+London,+UK/@51.5118992,-0.0848015,15z/data=!3m1!4b1)
+15:08:34	Warning: 	File not added due to mirror cancel: abs.twimg.com/robots.txt
+15:08:34	Error: 	"Not Found" (404) at link abs.twimg.com/ (from https://twitter.com/envy_theme)
+15:08:34	Warning: 	File not added due to mirror cancel: api.twitter.com/robots.txt
+15:08:34	Warning: 	Moved Permanently for api.twitter.com/
+15:08:34	Warning: 	Redirected link is identical because of 'URL Hack' option: api.twitter.com/ and https://api.twitter.com/
+15:08:34	Warning: 	File has moved from api.twitter.com/ to https://api.twitter.com/
+15:08:34	Warning: 	File not added due to mirror cancel: pbs.twimg.com/robots.txt
+15:08:34	Error: 	"Bad Request" (400) at link pbs.twimg.com/ (from https://twitter.com/envy_theme)
+15:08:34	Warning: 	File not added due to mirror cancel: t.co/robots.txt
+15:08:34	Warning: 	Moved Permanently for t.co/
+15:08:34	Warning: 	Redirected link is identical because of 'URL Hack' option: t.co/ and https://t.co/
+15:08:34	Warning: 	File has moved from t.co/ to https://t.co/
+15:08:34	Warning: 	File not added due to mirror cancel: video.twimg.com/robots.txt
+15:08:34	Error: 	"Bad Request" (400) at link video.twimg.com/ (from https://twitter.com/envy_theme)
+15:08:34	Warning: 	File not added due to mirror cancel: https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/robots.txt
+15:08:34	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/ (from https://twitter.com/envy_theme)
+15:08:34	Error: 	"Not Found" (404) at link abs.twimg.com/favicons/twitter.2.ico (from https://twitter.com/envy_theme)
+15:08:34	Warning: 	File not added due to mirror cancel: https://help.twitter.com/robots.txt
+15:08:34	Warning: 	File not added due to mirror cancel: https://legal.twitter.com/robots.txt
+15:08:34	Warning: 	File not added due to mirror cancel: https://business.twitter.com/robots.txt
+15:08:34	Warning: 	File not added due to mirror cancel: https://abs.twimg.com/robots.txt
+15:08:34	Error: 	"Not Found" (404) at link https://abs.twimg.com/responsive-web/client-web-legacy/ (from https://twitter.com/envy_theme)
+15:09:10	Error: 	"Not Found" (404) at link https://www.instagram.com/envytheme3s/android-app://com.instagram.android/https/instagram.com/_u/envytheme3s/ (from https://www.instagram.com/envytheme3s/)
+15:10:16	Error: 	"Not Found" (404) at link https://www.instagram.com/envytheme3s/theaustralian.com.au (from https://www.instagram.com/envytheme3s/)
+15:10:16	Error: 	"Not Found" (404) at link https://www.instagram.com/envytheme3s/news.com.au (from https://www.instagram.com/envytheme3s/)
+15:10:16	Error: 	"Not Found" (404) at link https://www.instagram.com/envytheme3s/kollosche.com.au (from https://www.instagram.com/envytheme3s/)
+15:10:16	Error: 	"Not Found" (404) at link https://www.instagram.com/envytheme3s/awstrack.me (from https://www.instagram.com/envytheme3s/)
+15:10:16	Error: 	"Not Found" (404) at link https://www.instagram.com/envytheme3s/U (from https://www.instagram.com/envytheme3s/)
+15:10:17	Error: 	"Not Found" (404) at link https://envytheme.com/wp-content/themes/envytheme/assets/css/owl.video.play.png (from https://envytheme.com/wp-content/themes/envytheme/assets/css/owl.carousel.min.css?ver=1678440570)
+15:10:19	Error: 	"Not Found" (404) at link https://envytheme.com/wp-content/themes/envytheme/assets/img/popular-items/1.jpg (from https://envytheme.com/wp-content/themes/envytheme/assets/css/main.css?ver=1678440570)
+15:10:19	Error: 	"Not Found" (404) at link https://envytheme.com/wp-content/themes/envytheme/assets/img/popular-items/2.jpg (from https://envytheme.com/wp-content/themes/envytheme/assets/css/main.css?ver=1678440570)
+15:10:19	Error: 	"Not Found" (404) at link https://envytheme.com/wp-content/themes/envytheme/assets/img/popular-items/3.jpg (from https://envytheme.com/wp-content/themes/envytheme/assets/css/main.css?ver=1678440570)
+15:10:19	Error: 	"Not Found" (404) at link https://envytheme.com/wp-content/themes/envytheme/assets/img/popular-items/4.jpg (from https://envytheme.com/wp-content/themes/envytheme/assets/css/main.css?ver=1678440570)
+15:10:19	Error: 	"Not Found" (404) at link https://envytheme.com/wp-content/themes/envytheme/assets/css/Flaticon.svg (from https://envytheme.com/wp-content/themes/envytheme/assets/css/main.css?ver=1678440570)
+15:10:19	Warning: 	Moved Permanently for https://envytheme.com/?p=213
+15:10:19	Warning: 	File has moved from https://envytheme.com/?p=213 to https://envytheme.com/about-us/
+15:10:20	Warning: 	Moved Permanently for https://envytheme.com/?p=160
+15:10:20	Warning: 	File has moved from https://envytheme.com/?p=160 to https://envytheme.com/faq/
+15:10:20	Warning: 	Moved Permanently for https://envytheme.com/?p=157
+15:10:20	Warning: 	File has moved from https://envytheme.com/?p=157 to https://envytheme.com/contact-us/
+15:10:22	Warning: 	File not added due to mirror cancel: https://ar-ar.facebook.com/robots.txt
+15:10:24	Warning: 	File not added due to mirror cancel: https://bg-bg.facebook.com/robots.txt
+15:10:26	Warning: 	File not added due to mirror cancel: https://bn-in.facebook.com/robots.txt
+15:10:30	Warning: 	File not added due to mirror cancel: https://bs-ba.facebook.com/robots.txt
+15:10:32	Warning: 	File not added due to mirror cancel: https://cs-cz.facebook.com/robots.txt
+15:10:34	Warning: 	File not added due to mirror cancel: https://da-dk.facebook.com/robots.txt
+15:10:35	Warning: 	File not added due to mirror cancel: https://de-de.facebook.com/robots.txt
+15:10:37	Warning: 	File not added due to mirror cancel: https://el-gr.facebook.com/robots.txt
+15:10:39	Warning: 	File not added due to mirror cancel: https://en-gb.facebook.com/robots.txt
+15:10:41	Warning: 	File not added due to mirror cancel: https://es-la.facebook.com/robots.txt
+15:10:44	Warning: 	File not added due to mirror cancel: https://es-es.facebook.com/robots.txt
+15:10:46	Warning: 	File not added due to mirror cancel: https://et-ee.facebook.com/robots.txt
+15:10:49	Warning: 	File not added due to mirror cancel: https://fa-ir.facebook.com/robots.txt
+15:10:51	Warning: 	File not added due to mirror cancel: https://fi-fi.facebook.com/robots.txt
+15:10:54	Warning: 	File not added due to mirror cancel: https://fr-fr.facebook.com/robots.txt
+15:10:56	Warning: 	File not added due to mirror cancel: https://he-il.facebook.com/robots.txt
+15:10:58	Warning: 	File not added due to mirror cancel: https://hi-in.facebook.com/robots.txt
+15:11:03	Warning: 	File not added due to mirror cancel: https://hr-hr.facebook.com/robots.txt
+15:11:05	Warning: 	File not added due to mirror cancel: https://hu-hu.facebook.com/robots.txt
+15:11:07	Warning: 	File not added due to mirror cancel: https://id-id.facebook.com/robots.txt
+15:11:09	Warning: 	File not added due to mirror cancel: https://it-it.facebook.com/robots.txt
+15:11:11	Warning: 	File not added due to mirror cancel: https://ja-jp.facebook.com/robots.txt
+15:11:13	Warning: 	File not added due to mirror cancel: https://ka-ge.facebook.com/robots.txt
+15:11:15	Warning: 	File not added due to mirror cancel: https://km-kh.facebook.com/robots.txt
+15:11:17	Warning: 	File not added due to mirror cancel: https://ko-kr.facebook.com/robots.txt
+15:11:19	Warning: 	File not added due to mirror cancel: https://lt-lt.facebook.com/robots.txt
+15:11:21	Warning: 	File not added due to mirror cancel: https://lv-lv.facebook.com/robots.txt
+15:11:23	Warning: 	File not added due to mirror cancel: https://mk-mk.facebook.com/robots.txt
+15:11:26	Warning: 	File not added due to mirror cancel: https://ml-in.facebook.com/robots.txt
+15:11:28	Warning: 	File not added due to mirror cancel: https://ms-my.facebook.com/robots.txt
+15:11:30	Warning: 	File not added due to mirror cancel: https://nb-no.facebook.com/robots.txt
+15:11:32	Warning: 	File not added due to mirror cancel: https://ne-np.facebook.com/robots.txt
+15:11:35	Warning: 	File not added due to mirror cancel: https://nl-nl.facebook.com/robots.txt
+15:11:37	Warning: 	File not added due to mirror cancel: https://pa-in.facebook.com/robots.txt
+15:11:41	Warning: 	File not added due to mirror cancel: https://pl-pl.facebook.com/robots.txt
+15:11:45	Warning: 	File not added due to mirror cancel: https://pt-br.facebook.com/robots.txt
+15:11:47	Warning: 	File not added due to mirror cancel: https://pt-pt.facebook.com/robots.txt
+15:11:49	Warning: 	File not added due to mirror cancel: https://ro-ro.facebook.com/robots.txt
+15:11:52	Warning: 	File not added due to mirror cancel: https://ru-ru.facebook.com/robots.txt
+15:11:54	Warning: 	File not added due to mirror cancel: https://sk-sk.facebook.com/robots.txt
+15:11:56	Warning: 	File not added due to mirror cancel: https://sl-si.facebook.com/robots.txt
+15:11:58	Warning: 	File not added due to mirror cancel: https://sq-al.facebook.com/robots.txt
+15:12:00	Warning: 	File not added due to mirror cancel: https://sr-rs.facebook.com/robots.txt
+15:12:02	Warning: 	File not added due to mirror cancel: https://sv-se.facebook.com/robots.txt
+15:12:04	Warning: 	File not added due to mirror cancel: https://sw-ke.facebook.com/robots.txt
+15:12:06	Warning: 	File not added due to mirror cancel: https://ta-in.facebook.com/robots.txt
+15:12:08	Warning: 	File not added due to mirror cancel: https://te-in.facebook.com/robots.txt
+15:12:10	Warning: 	File not added due to mirror cancel: https://th-th.facebook.com/robots.txt
+15:12:12	Warning: 	File not added due to mirror cancel: https://tl-ph.facebook.com/robots.txt
+15:12:14	Warning: 	File not added due to mirror cancel: https://tr-tr.facebook.com/robots.txt
+15:12:16	Warning: 	File not added due to mirror cancel: https://uk-ua.facebook.com/robots.txt
+15:12:18	Warning: 	File not added due to mirror cancel: https://ur-pk.facebook.com/robots.txt
+15:12:20	Warning: 	File not added due to mirror cancel: https://vi-vn.facebook.com/robots.txt
+15:12:22	Warning: 	File not added due to mirror cancel: https://zh-cn.facebook.com/robots.txt
+15:12:24	Warning: 	File not added due to mirror cancel: https://zh-hk.facebook.com/robots.txt
+15:12:26	Warning: 	File not added due to mirror cancel: https://zh-tw.facebook.com/robots.txt
+15:12:28	Warning: 	File not added due to mirror cancel: https://m.facebook.com/robots.txt
+15:12:28	Warning: 	File not added due to mirror cancel: scontent.xx.fbcdn.net/robots.txt
+15:12:28	Warning: 	Moved Permanently for scontent.xx.fbcdn.net/
+15:12:28	Warning: 	Redirected link is identical because of 'URL Hack' option: scontent.xx.fbcdn.net/ and https://scontent.xx.fbcdn.net/
+15:12:28	Warning: 	File has moved from scontent.xx.fbcdn.net/ to https://scontent.xx.fbcdn.net/
+15:12:28	Warning: 	File not added due to mirror cancel: video.xx.fbcdn.net/robots.txt
+15:12:28	Warning: 	Moved Permanently for video.xx.fbcdn.net/
+15:12:28	Warning: 	Redirected link is identical because of 'URL Hack' option: video.xx.fbcdn.net/ and https://video.xx.fbcdn.net/
+15:12:28	Warning: 	File has moved from video.xx.fbcdn.net/ to https://video.xx.fbcdn.net/
+15:12:37	Error: 	"Not Found" (404) at link https://www.facebook.com/EnvyTheme/theaustralian.com.au (from https://www.facebook.com/EnvyTheme/)
+15:12:37	Error: 	"Not Found" (404) at link https://www.facebook.com/EnvyTheme/news.com.au (from https://www.facebook.com/EnvyTheme/)
+15:12:37	Error: 	"Not Found" (404) at link https://www.facebook.com/EnvyTheme/kollosche.com.au (from https://www.facebook.com/EnvyTheme/)
+15:12:37	Error: 	"Not Found" (404) at link https://www.facebook.com/EnvyTheme/awstrack.me (from https://www.facebook.com/EnvyTheme/)
+15:12:37	Error: 	"Not Found" (404) at link https://www.facebook.com/EnvyTheme/pVuPe9 (from https://www.facebook.com/EnvyTheme/)
+15:12:37	Error: 	"Not Found" (404) at link https://www.facebook.com/EnvyTheme/o305YZ (from https://www.facebook.com/EnvyTheme/)
+15:12:38	Warning: 	File not added due to mirror cancel: https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/
+15:12:38	Error: 	"mirror stopped by user" (-1) at link https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/ (from https://twitter.com/envy_theme)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 26 seconds : 879 links scanned, 743 files written (128589305 bytes overall) [54731481 bytes received at 67905 bytes/sec], 103961019 bytes transferred using HTTP compression in 549 files, ratio 24%, 3.5 requests per connection
+(37 errors, 109 warnings, 0 messages)

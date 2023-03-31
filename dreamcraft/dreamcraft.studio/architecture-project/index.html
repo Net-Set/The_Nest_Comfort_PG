@@ -1,0 +1,1642 @@
+
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+
+<!-- Mirrored from dreamcraft.studio/architecture-project/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Feb 2023 06:19:35 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Architecture Project &#8211; Dream Craft Studio</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Dream Craft Studio &raquo; Feed" href="../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Dream Craft Studio &raquo; Comments Feed" href="../comments/feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/dreamcraft.studio\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.12"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.minc4ec.css?ver=5.4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='../wp-includes/css/dist/block-library/theme.minc4ec.css?ver=5.4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-style-css'  href='../wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor0322.css?ver=1.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min87e8.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='../wp-content/plugins/elementor/assets/lib/animations/animations.mincaa5.css?ver=2.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='../wp-content/plugins/elementor/assets/css/frontend.mincaa5.css?ver=2.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='../wp-content/plugins/elementor-pro/assets/css/frontend.minb2da.css?ver=2.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='../wp-content/uploads/elementor/css/global499d.css?ver=1616519820' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css'  href='../wp-content/uploads/elementor/css/post-7e8eb.css?ver=1616517128' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-499-css'  href='../wp-content/uploads/elementor/css/post-49965c0.css?ver=1649020260' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css'  href='../wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend0322.css?ver=1.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-25-css'  href='../wp-content/uploads/elementor/css/post-258b87.css?ver=1649021035' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-49-css'  href='../wp-content/uploads/elementor/css/post-49e8eb.css?ver=1616517128' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-41-css'  href='../wp-content/uploads/elementor/css/post-41e8eb.css?ver=1616517128' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='../wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.minaec5.css?ver=5.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='../wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min8d5a.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='../wp-content/themes/oceanwp/assets/css/third/magnific-popup.min8a54.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='../wp-content/themes/oceanwp/assets/css/third/slick.minaff7.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='../wp-content/themes/oceanwp/assets/css/style.min4511.css?ver=1.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ms-main-css'  href='../wp-content/plugins/masterslider/public/assets/css/masterslider.main6b10.css?ver=3.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='ms-custom-css'  href='../wp-content/uploads/masterslider/custom9d52.css?ver=2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='oe-widgets-style-css'  href='../wp-content/plugins/ocean-extra/assets/css/widgetsc4ec.css?ver=5.4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CEl+Messiri%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.minb683.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.minb683.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.minb683.css?ver=5.12.0' type='text/css' media='all' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery4a5f.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+<script type='text/javascript' src='../wp-content/plugins/masterslider/includes/modules/elementor/assets/js/elementor-widgets6b10.js?ver=3.2.14'></script>
+<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.html" /> 
+<meta name="generator" content="WordPress 5.4.12" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='../indexa862.html?p=499' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed212b.json?url=https%3A%2F%2Fdreamcraft.studio%2Farchitecture-project%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed3030?url=https%3A%2F%2Fdreamcraft.studio%2Farchitecture-project%2F&amp;format=xml" />
+<!-- start Simple Custom CSS and JS -->
+<script>(function(w, d) { w.CollectId = "625417ce4a37fc68f8b504de"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "../../collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script><!-- end Simple Custom CSS and JS -->
+<script>var ms_grabbing_curosr='../wp-content/plugins/masterslider/public/assets/css/common/grabbing.html',ms_grab_curosr='../wp-content/plugins/masterslider/public/assets/css/common/grab.html';</script>
+<meta name="generator" content="MasterSlider 3.2.14 - Responsive Touch Image Slider" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="../wp-content/uploads/2020/07/cropped-DreamCraftStudio-Fevicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="../wp-content/uploads/2020/07/cropped-DreamCraftStudio-Fevicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="../wp-content/uploads/2020/07/cropped-DreamCraftStudio-Fevicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://dreamcraft.studio/wp-content/uploads/2020/07/cropped-DreamCraftStudio-Fevicon-270x270.png" />
+<!-- OceanWP CSS -->
+<style type="text/css">
+/* Header CSS */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}
+</style>	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-147564373-1"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ gtag('config', 'UA-147564373-1');
+</script>
+</head>
+
+<body class="page-template-default page page-id-499 wp-embed-responsive _masterslider _msp_version_3.2.14 ehf-header ehf-footer ehf-template-oceanwp ehf-stylesheet-oceanwp oceanwp-theme sidebar-mobile default-breakpoint content-full-width content-max-width page-header-disabled no-margins elementor-default elementor-kit-7 elementor-page elementor-page-499"  itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+					<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<p class="main-title bhf-hidden" itemprop="headline"><a href="../index.html" title="Dream Craft Studio" rel="home">Dream Craft Studio</a></p>
+					<div data-elementor-type="wp-post" data-elementor-id="25" class="elementor elementor-25" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-6ed3cf7 elementor-section-stretched elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6ed3cf7" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3d81150 elementor-column elementor-col-50 elementor-top-column" data-id="3d81150" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3d1c5ad elementor-widget elementor-widget-image" data-id="3d1c5ad" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="../index.html">
+							<img width="861" height="861" src="../wp-content/uploads/2020/06/Dream-Craft-Studio-Logo.png" class="attachment-full size-full" alt="" srcset="https://dreamcraft.studio/wp-content/uploads/2020/06/Dream-Craft-Studio-Logo.png 861w, https://dreamcraft.studio/wp-content/uploads/2020/06/Dream-Craft-Studio-Logo-300x300.png 300w, https://dreamcraft.studio/wp-content/uploads/2020/06/Dream-Craft-Studio-Logo-150x150.png 150w, https://dreamcraft.studio/wp-content/uploads/2020/06/Dream-Craft-Studio-Logo-768x768.png 768w" sizes="(max-width: 861px) 100vw, 861px" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b84a158 elementor-widget elementor-widget-heading" data-id="b84a158" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="../index.html">Dream Craft Studio</a></h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-6a48e3f elementor-column elementor-col-50 elementor-top-column" data-id="6a48e3f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0aa2517 elementor-nav-menu__align-center elementor-nav-menu--stretch elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="0aa2517" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-sweep-down"><ul id="menu-1-0aa2517" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-27"><a href="../index.html" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="../services-we-offer/index.html" class="elementor-item">Services We Offer</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-544"><a href="#" class="elementor-item elementor-item-anchor">Our Projects</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="../our-projects/index.html" class="elementor-sub-item">Interior Projects</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-499 current_page_item menu-item-545"><a href="index.html" aria-current="page" class="elementor-sub-item elementor-item-active">Architecture Project</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="../our-creative-studio/index.html" class="elementor-item">Our Creative Studio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="../contact-us/index.html" class="elementor-item">Contact Us</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle">
+			<i class="eicon" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+		<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"><ul id="menu-2-0aa2517" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-27"><a href="../index.html" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="../services-we-offer/index.html" class="elementor-item">Services We Offer</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-544"><a href="#" class="elementor-item elementor-item-anchor">Our Projects</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="../our-projects/index.html" class="elementor-sub-item">Interior Projects</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-499 current_page_item menu-item-545"><a href="index.html" aria-current="page" class="elementor-sub-item elementor-item-active">Architecture Project</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="../our-creative-studio/index.html" class="elementor-item">Our Creative Studio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="../contact-us/index.html" class="elementor-item">Contact Us</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-f536ce0 elementor-section-stretched elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f536ce0" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c2f0fc4 elementor-column elementor-col-100 elementor-top-column" data-id="c2f0fc4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-927cc94 elementor-widget elementor-widget-image" data-id="927cc94" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="../index.html">
+							<img width="861" height="861" src="../wp-content/uploads/2020/06/Dream-Craft-Studio-Logo.png" class="attachment-full size-full" alt="" srcset="https://dreamcraft.studio/wp-content/uploads/2020/06/Dream-Craft-Studio-Logo.png 861w, https://dreamcraft.studio/wp-content/uploads/2020/06/Dream-Craft-Studio-Logo-300x300.png 300w, https://dreamcraft.studio/wp-content/uploads/2020/06/Dream-Craft-Studio-Logo-150x150.png 150w, https://dreamcraft.studio/wp-content/uploads/2020/06/Dream-Craft-Studio-Logo-768x768.png 768w" sizes="(max-width: 861px) 100vw, 861px" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ad9ca63 elementor-widget elementor-widget-heading" data-id="ad9ca63" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="../index.html">Dream Craft Studio</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-85f839a elementor-nav-menu__align-center elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="85f839a" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-sweep-down"><ul id="menu-1-85f839a" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-27"><a href="../index.html" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="../services-we-offer/index.html" class="elementor-item">Services We Offer</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-544"><a href="#" class="elementor-item elementor-item-anchor">Our Projects</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="../our-projects/index.html" class="elementor-sub-item">Interior Projects</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-499 current_page_item menu-item-545"><a href="index.html" aria-current="page" class="elementor-sub-item elementor-item-active">Architecture Project</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="../our-creative-studio/index.html" class="elementor-item">Our Creative Studio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="../contact-us/index.html" class="elementor-item">Contact Us</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle">
+			<i class="eicon" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+		<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"><ul id="menu-2-85f839a" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-27"><a href="../index.html" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="../services-we-offer/index.html" class="elementor-item">Services We Offer</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-544"><a href="#" class="elementor-item elementor-item-anchor">Our Projects</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="../our-projects/index.html" class="elementor-sub-item">Interior Projects</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-499 current_page_item menu-item-545"><a href="index.html" aria-current="page" class="elementor-sub-item elementor-item-active">Architecture Project</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="../our-creative-studio/index.html" class="elementor-item">Our Creative Studio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="../contact-us/index.html" class="elementor-item">Contact Us</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+				</header>
+
+	
+			
+			<main id="main" class="site-main clr"  role="main">
+
+				
+	
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article class="single-page-article clr">
+
+	
+<div class="entry clr" itemprop="text">
+				<div data-elementor-type="wp-page" data-elementor-id="499" class="elementor elementor-499" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-f70d642 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f70d642" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-d778bfa elementor-column elementor-col-50 elementor-top-column" data-id="d778bfa" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-09987c5 elementor-skin-slideshow elementor-aspect-ratio-169 elementor-arrows-yes elementor-widget elementor-widget-media-carousel" data-id="09987c5" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;slideshow&quot;,&quot;centered_slides&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-A1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-A2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-A3.jpg)">
+					</div>
+								</div>
+									</div>
+																				<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				<div class="elementor-swiper">
+			<div class="elementor-thumbnails-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-A1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-A2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-A3.jpg)">
+					</div>
+								</div>
+									</div>
+																					</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-d4aac0c elementor-column elementor-col-50 elementor-top-column" data-id="d4aac0c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-663517f elementor-widget elementor-widget-heading" data-id="663517f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Amaya Farm</h2>		</div>
+				</div>
+				<section class="elementor-element elementor-element-c76c1fd elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="c76c1fd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-73e533a elementor-column elementor-col-100 elementor-inner-column" data-id="73e533a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-50c3c1c elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="50c3c1c" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-burn"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e5007d8 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="e5007d8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Sanand</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-688d67b elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="688d67b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-68a395c elementor-column elementor-col-100 elementor-inner-column" data-id="68a395c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d31197a elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="d31197a" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-expand-arrows-alt"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-45d9e1f elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="45d9e1f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">15000 sq m</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-c104833 elementor-widget elementor-widget-heading" data-id="c104833" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Project Details</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e417ed8 elementor-widget elementor-widget-heading" data-id="e417ed8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">"20 Luxurious 3BHK villa with club-house"</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6481e35 elementor-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="6481e35" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="../contact-us/index.html" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4eedb5f elementor-section-stretched elementor-reverse-tablet elementor-reverse-mobile elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4eedb5f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f93d3db elementor-column elementor-col-50 elementor-top-column" data-id="f93d3db" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b50f380 elementor-widget elementor-widget-heading" data-id="b50f380" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">4 BHK Bungalow</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8955598 elementor-widget elementor-widget-heading" data-id="8955598" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Deesa hotel</h2>		</div>
+				</div>
+				<section class="elementor-element elementor-element-adf3a52 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="adf3a52" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7ba90eb elementor-column elementor-col-100 elementor-inner-column" data-id="7ba90eb" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d474b00 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="d474b00" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-burn"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-489337c elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="489337c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Koba, Gandhinagar</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-5770eb9 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="5770eb9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-811d9d3 elementor-column elementor-col-100 elementor-inner-column" data-id="811d9d3" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-06f9ada elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="06f9ada" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-expand-arrows-alt"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4ebfa39 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="4ebfa39" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">2000 sq ft</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6411be5 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="6411be5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5d0b5ae elementor-column elementor-col-100 elementor-inner-column" data-id="5d0b5ae" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2206de3 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="2206de3" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-rupee-sign"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ea7f412 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="ea7f412" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">18-23 lakh</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-3360c9f elementor-widget elementor-widget-heading" data-id="3360c9f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Client Details</h2>		</div>
+				</div>
+				<section class="elementor-element elementor-element-63789f8 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="63789f8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-d4c1dc7 elementor-column elementor-col-50 elementor-inner-column" data-id="d4c1dc7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-34fe5b0 elementor-widget__width-auto elementor-widget-mobile__width-auto elementor-widget elementor-widget-image" data-id="34fe5b0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="300" src="../wp-content/uploads/2020/07/Client-Pic-300x300.png" class="attachment-medium size-medium" alt="" srcset="https://dreamcraft.studio/wp-content/uploads/2020/07/Client-Pic-300x300.png 300w, https://dreamcraft.studio/wp-content/uploads/2020/07/Client-Pic-150x150.png 150w, https://dreamcraft.studio/wp-content/uploads/2020/07/Client-Pic.png 512w" sizes="(max-width: 300px) 100vw, 300px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-98f6fef elementor-column elementor-col-50 elementor-inner-column" data-id="98f6fef" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-41e893d elementor-widget elementor-widget-heading" data-id="41e893d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Prashant Tiwari</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-57fd971 elementor-widget elementor-widget-heading" data-id="57fd971" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Trader</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-e8c1929 elementor-widget elementor-widget-heading" data-id="e8c1929" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a83b77e elementor-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="a83b77e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="../contact-us/index.html" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2cefc9f elementor-column elementor-col-50 elementor-top-column" data-id="2cefc9f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5e98de1 elementor-skin-slideshow elementor-aspect-ratio-169 elementor-arrows-yes elementor-widget elementor-widget-media-carousel" data-id="5e98de1" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;slideshow&quot;,&quot;centered_slides&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-B1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-B2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-B3.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-B4.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-B5.jpg)">
+					</div>
+								</div>
+									</div>
+																				<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				<div class="elementor-swiper">
+			<div class="elementor-thumbnails-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-B1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-B2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-B3.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-B4.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-B5.jpg)">
+					</div>
+								</div>
+									</div>
+																					</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-24d880c elementor-section-stretched elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="24d880c" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f461840 elementor-column elementor-col-50 elementor-top-column" data-id="f461840" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-566f390 elementor-widget elementor-widget-heading" data-id="566f390" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Farm House</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ce2031 elementor-widget elementor-widget-heading" data-id="2ce2031" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Sankalp Farm</h2>		</div>
+				</div>
+				<section class="elementor-element elementor-element-0bd5aae elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="0bd5aae" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2cced41 elementor-column elementor-col-100 elementor-inner-column" data-id="2cced41" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4030e8c elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="4030e8c" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-burn"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-88ca11c elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="88ca11c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Bavlu, Ahmedabad</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-311597f elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="311597f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-43048ff elementor-column elementor-col-100 elementor-inner-column" data-id="43048ff" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-06ee68e elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="06ee68e" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-expand-arrows-alt"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4020ee0 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="4020ee0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">80 acres</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-c0883f0 elementor-widget elementor-widget-heading" data-id="c0883f0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Project Details</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-12fe3f2 elementor-widget elementor-widget-heading" data-id="12fe3f2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">250 plots with weekend villas ranging from 1BHK to 4BHK. Also has 2 lakes and other amenities</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-31b55fc elementor-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="31b55fc" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="../contact-us/index.html" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-6e6dd09 elementor-column elementor-col-50 elementor-top-column" data-id="6e6dd09" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c332e73 elementor-skin-slideshow elementor-aspect-ratio-169 elementor-arrows-yes elementor-widget elementor-widget-media-carousel" data-id="c332e73" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;slideshow&quot;,&quot;centered_slides&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-F1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-F2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-F3.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-F4.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-F5.jpg)">
+					</div>
+								</div>
+									</div>
+																				<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				<div class="elementor-swiper">
+			<div class="elementor-thumbnails-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-F1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-F2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-F3.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-F4.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-F5.jpg)">
+					</div>
+								</div>
+									</div>
+																					</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-5a31bb8 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5a31bb8" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-ac71110 elementor-column elementor-col-50 elementor-top-column" data-id="ac71110" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-119549c elementor-skin-slideshow elementor-aspect-ratio-169 elementor-arrows-yes elementor-widget elementor-widget-media-carousel" data-id="119549c" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;slideshow&quot;,&quot;centered_slides&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-C1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-C2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-C3.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-C4.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-C5.jpg)">
+					</div>
+								</div>
+									</div>
+																				<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				<div class="elementor-swiper">
+			<div class="elementor-thumbnails-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-C1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-C2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-C3.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-C4.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-C5.jpg)">
+					</div>
+								</div>
+									</div>
+																					</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-181a3b4 elementor-column elementor-col-50 elementor-top-column" data-id="181a3b4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b828056 elementor-widget elementor-widget-heading" data-id="b828056" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">45 acre - 1 acre per villa</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-270f270 elementor-widget elementor-widget-heading" data-id="270f270" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Affinity Farm</h2>		</div>
+				</div>
+				<section class="elementor-element elementor-element-e7e00ef elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="e7e00ef" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c9af4e1 elementor-column elementor-col-100 elementor-inner-column" data-id="c9af4e1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-bf2fa72 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="bf2fa72" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-burn"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6cab863 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="6cab863" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Thol, Ahmedabad</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7be96f5 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="7be96f5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-154d8a0 elementor-column elementor-col-100 elementor-inner-column" data-id="154d8a0" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-10e8acf elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="10e8acf" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-expand-arrows-alt"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-08862c1 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="08862c1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">50 Acres</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-f4cdce3 elementor-widget elementor-widget-heading" data-id="f4cdce3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Project Details</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1d03a9e elementor-widget elementor-widget-heading" data-id="1d03a9e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">42 villas decked in grandiose, per villa receiving, acre of land, along with club-house and other amenities</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cc96228 elementor-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="cc96228" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="../contact-us/index.html" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-1afa3ac elementor-section-stretched elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="1afa3ac" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-0ca1ef9 elementor-column elementor-col-50 elementor-top-column" data-id="0ca1ef9" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-592fbac elementor-widget elementor-widget-heading" data-id="592fbac" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">2BHK Residential Building</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-982370e elementor-widget elementor-widget-heading" data-id="982370e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">HEMA - PALDI</h2>		</div>
+				</div>
+				<section class="elementor-element elementor-element-10dc77a elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="10dc77a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-86a3361 elementor-column elementor-col-100 elementor-inner-column" data-id="86a3361" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-84032c2 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="84032c2" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-burn"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9ef0ff3 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="9ef0ff3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Paldi, Ahmedabad</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-f33f93d elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="f33f93d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b391cdb elementor-column elementor-col-100 elementor-inner-column" data-id="b391cdb" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0079188 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="0079188" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-expand-arrows-alt"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-faf4ec9 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="faf4ec9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">12000 sq ft</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-e120141 elementor-widget elementor-widget-heading" data-id="e120141" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Project Details</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5161420 elementor-widget elementor-widget-heading" data-id="5161420" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Spacious and well designed 2BHK residential building</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-37fa792 elementor-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="37fa792" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="../contact-us/index.html" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-29bd15d elementor-column elementor-col-50 elementor-top-column" data-id="29bd15d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-9dabd68 elementor-skin-slideshow elementor-aspect-ratio-169 elementor-arrows-yes elementor-widget elementor-widget-media-carousel" data-id="9dabd68" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;slideshow&quot;,&quot;centered_slides&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-D1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-D2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-D3.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-D4.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-D5.jpg)">
+					</div>
+								</div>
+									</div>
+																				<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				<div class="elementor-swiper">
+			<div class="elementor-thumbnails-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-D1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-D2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-D3.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-D4.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-D5.jpg)">
+					</div>
+								</div>
+									</div>
+																					</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-72c4598 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="72c4598" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-67d66b1 elementor-column elementor-col-50 elementor-top-column" data-id="67d66b1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-83fafd2 elementor-skin-slideshow elementor-aspect-ratio-169 elementor-arrows-yes elementor-widget elementor-widget-media-carousel" data-id="83fafd2" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;slideshow&quot;,&quot;centered_slides&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-E1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-E2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-E3.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-E4.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-E5.jpg)">
+					</div>
+								</div>
+									</div>
+																				<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				<div class="elementor-swiper">
+			<div class="elementor-thumbnails-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-E1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-E2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-E3.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-E4.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-E5.jpg)">
+					</div>
+								</div>
+									</div>
+																					</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-7fc8473 elementor-column elementor-col-50 elementor-top-column" data-id="7fc8473" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1a7eedc elementor-widget elementor-widget-heading" data-id="1a7eedc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Weekend House</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0c2786d elementor-widget elementor-widget-heading" data-id="0c2786d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Prateek Mittal - Private luxurious weekend villa</h2>		</div>
+				</div>
+				<section class="elementor-element elementor-element-f1c06bc elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="f1c06bc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-58b3ff4 elementor-column elementor-col-100 elementor-inner-column" data-id="58b3ff4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b12e923 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="b12e923" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-burn"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5da8536 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="5da8536" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Thol, Ahmedabad</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-b56d26b elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="b56d26b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-62c95b1 elementor-column elementor-col-100 elementor-inner-column" data-id="62c95b1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-61242d6 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="61242d6" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-expand-arrows-alt"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-238c364 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="238c364" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">2 acres</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-c3912d5 elementor-widget elementor-widget-heading" data-id="c3912d5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Project Details</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-55f5b27 elementor-widget elementor-widget-heading" data-id="55f5b27" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Ultra-luxurious weekend villa in 5000 sq feet area</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4af0fb5 elementor-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="4af0fb5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="../contact-us/index.html" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-69a934d elementor-section-stretched elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="69a934d" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3e4304b elementor-column elementor-col-50 elementor-top-column" data-id="3e4304b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3c3cb6d elementor-widget elementor-widget-heading" data-id="3c3cb6d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Weekend Villa</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4b896c9 elementor-widget elementor-widget-heading" data-id="4b896c9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Vivek Tripathi - Weekend villa</h2>		</div>
+				</div>
+				<section class="elementor-element elementor-element-b1749d8 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="b1749d8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7d3c6f0 elementor-column elementor-col-100 elementor-inner-column" data-id="7d3c6f0" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e1ee285 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="e1ee285" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-burn"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-fd1792c elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="fd1792c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Thol, Ahmedabad</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-a46cd77 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="a46cd77" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4a80c22 elementor-column elementor-col-100 elementor-inner-column" data-id="4a80c22" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c9e77e4 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="c9e77e4" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-expand-arrows-alt"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-21acdf4 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="21acdf4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">1 acre</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-5f9e4ba elementor-widget elementor-widget-heading" data-id="5f9e4ba" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Project Details</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-dd52745 elementor-widget elementor-widget-heading" data-id="dd52745" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Table architecture is implemented in this project</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f4691ae elementor-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="f4691ae" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="../contact-us/index.html" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-95db863 elementor-column elementor-col-50 elementor-top-column" data-id="95db863" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-17808ff elementor-skin-slideshow elementor-aspect-ratio-169 elementor-arrows-yes elementor-widget elementor-widget-media-carousel" data-id="17808ff" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;slideshow&quot;,&quot;centered_slides&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-H1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-H2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-H3.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-H4.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-H5.jpg)">
+					</div>
+								</div>
+									</div>
+																				<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				<div class="elementor-swiper">
+			<div class="elementor-thumbnails-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-H1.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-H2.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-H3.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-H4.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-fit-aspect-ratio elementor-carousel-image" style="background-image: url(../wp-content/uploads/2022/03/Arch-H5.jpg)">
+					</div>
+								</div>
+									</div>
+																					</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+			</div>
+</article>
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+	</div><!-- #content-wrap -->
+
+	
+
+        </main><!-- #main -->
+
+        
+        
+        
+            <div class='footer-width-fixer'>		<div data-elementor-type="wp-post" data-elementor-id="41" class="elementor elementor-41" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-d7654af elementor-section-stretched elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="d7654af" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;tilt&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-920638b elementor-column elementor-col-100 elementor-top-column" data-id="920638b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5d99703 elementor-widget elementor-widget-heading" data-id="5d99703" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Request A Call Back</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a28709b elementor-widget elementor-widget-heading" data-id="a28709b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Get in touch with us to find some new ideas to accelerate your journey of building. Leave your number down below and our experts will give a callback and will discuss further.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-98f5858 elementor-button-align-center elementor-widget elementor-widget-form" data-id="98f5858" data-element_type="widget" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="New Form">
+			<input type="hidden" name="post_id" value="41"/>
+			<input type="hidden" name="form_id" value="98f5858"/>
+
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
+					<label for="form-field-name" class="elementor-field-label elementor-screen-only">Mobile Number</label><input size="1" type="tel" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Enter Your Mobile Number" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100">
+					<button type="submit" class="elementor-button elementor-size-sm elementor-animation-grow">
+						<span >
+																						<span class="elementor-button-text">Call Back</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-60c73f9 elementor-widget-divider--separator-type-pattern elementor-widget elementor-widget-divider" data-id="60c73f9" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(_data_image/svg%2bxml%2c_svg%20xmlns%3d%27http_/www.w3.org/2000/svg%27%20preserveAspectRatio%3d%27none%27%20overflow%3d%27visib/__/svg__.html);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-efd27ed elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="efd27ed" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-buzz elementor-repeater-item-d9c04f0" href="https://www.facebook.com/Dreamcraftstudios" target="_blank">
+					<span class="elementor-screen-only">Facebook</span>
+					<i class="fab fa-facebook"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-buzz elementor-repeater-item-b6202e7" href="https://www.youtube.com/channel/UCw762Q-QFS9fxjpZD5fSI_g?view_as=subscriber" target="_blank">
+					<span class="elementor-screen-only">Youtube</span>
+					<i class="fab fa-youtube"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-buzz elementor-repeater-item-92ff107" href="https://www.instagram.com/dreamcraft_studio/" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fab fa-instagram"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-buzz elementor-repeater-item-a05f32c" href="https://www.linkedin.com/company/14577910/" target="_blank">
+					<span class="elementor-screen-only">Linkedin</span>
+					<i class="fab fa-linkedin"></i>				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-c0f2350 elementor-section-stretched elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="c0f2350" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;tilt&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f127660 elementor-column elementor-col-100 elementor-top-column" data-id="f127660" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6dae88b elementor-widget elementor-widget-heading" data-id="6dae88b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Request A Call Back</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7b433dc elementor-widget elementor-widget-heading" data-id="7b433dc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Get in touch with us to find some new ideas to accelerate your journey of building. Leave your number down below and our experts will give a callback and will discuss further.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0f91403 elementor-button-align-center elementor-widget elementor-widget-form" data-id="0f91403" data-element_type="widget" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="New Form">
+			<input type="hidden" name="post_id" value="41"/>
+			<input type="hidden" name="form_id" value="0f91403"/>
+
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
+					<label for="form-field-name" class="elementor-field-label elementor-screen-only">Mobile Number</label><input size="1" type="tel" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Enter Your Mobile Number" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100">
+					<button type="submit" class="elementor-button elementor-size-sm elementor-animation-grow">
+						<span >
+																						<span class="elementor-button-text">Call Back</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ce23697 elementor-widget-divider--separator-type-pattern elementor-widget elementor-widget-divider" data-id="ce23697" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(_data_image/svg%2bxml%2c_svg%20xmlns%3d%27http_/www.w3.org/2000/svg%27%20preserveAspectRatio%3d%27none%27%20overflow%3d%27visib/__/svg__.html);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-512cdf2 elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="512cdf2" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-buzz elementor-repeater-item-d9c04f0" href="https://www.facebook.com/Dreamcraftstudios" target="_blank">
+					<span class="elementor-screen-only">Facebook</span>
+					<i class="fab fa-facebook"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-buzz elementor-repeater-item-b6202e7" href="https://www.youtube.com/channel/UCw762Q-QFS9fxjpZD5fSI_g?view_as=subscriber" target="_blank">
+					<span class="elementor-screen-only">Youtube</span>
+					<i class="fab fa-youtube"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-buzz elementor-repeater-item-92ff107" href="https://www.instagram.com/dreamcraft_studio/" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fab fa-instagram"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-buzz elementor-repeater-item-a05f32c" href="https://www.linkedin.com/company/14577910/" target="_blank">
+					<span class="elementor-screen-only">Linkedin</span>
+					<i class="fab fa-linkedin"></i>				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div>		<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class='footer-width-fixer'>		<div data-elementor-type="wp-post" data-elementor-id="49" class="elementor elementor-49" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-a2b9ab7 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="a2b9ab7" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-8464910 elementor-column elementor-col-100 elementor-top-column" data-id="8464910" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-cab797d elementor-widget elementor-widget-heading" data-id="cab797d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">© Dream Craft Studio . All Rights Reserved | Powered by <a href="https://www.yadavbros.com/"><span style=color:#FFDB00>YadavBros</a></h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div>		</footer>
+	
+        
+        
+    </div><!-- #wrap -->
+
+    
+</div><!-- #outer-wrap -->
+
+
+
+<a id="scroll-top" class="scroll-top-right" href="#"><span class="fa fa-angle-up" aria-label="Scroll to the top of the page"></span></a>
+
+
+<div id="sidr-close">
+	<a href="#" class="toggle-sidr-close" aria-label="Close mobile Menu">
+		<i class="icon icon-close" aria-hidden="true"></i><span class="close-text">Close Menu</span>
+	</a>
+</div>
+    
+    
+<div id="mobile-menu-search" class="clr">
+	<form method="get" action="https://dreamcraft.studio/" class="mobile-searchform" role="search" aria-label="Search for:">
+		<label for="ocean-mobile-search1">
+			<input type="search" name="s" autocomplete="off" placeholder="Search" />
+			<button type="submit" class="searchform-submit" aria-label="Submit Search">
+				<i class="icon icon-magnifier" aria-hidden="true"></i>
+			</button>
+					</label>
+			</form>
+</div><!-- .mobile-menu-search -->
+
+<script type='text/javascript' src='../wp-includes/js/imagesloaded.min55a0.js?ver=3.2.0'></script>
+<script type='text/javascript' src='../wp-content/themes/oceanwp/assets/js/third/magnific-popup.min4511.js?ver=1.8.3'></script>
+<script type='text/javascript' src='../wp-content/themes/oceanwp/assets/js/third/lightbox.min4511.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var oceanwpLocalize = {"isRTL":"","menuSearchStyle":"drop_down","sidrSource":"#sidr-close, #site-navigation, #mobile-menu-search","sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"https:\/\/dreamcraft.studio\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/themes/oceanwp/assets/js/main.min4511.js?ver=1.8.3'></script>
+<script type='text/javascript' src='../wp-includes/js/wp-embed.minc4ec.js?ver=5.4.12'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://dreamcraft.studio/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=1.8.3'></script>
+<![endif]-->
+<script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend-modules.mincaa5.js?ver=2.9.13'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.minb2da.js?ver=2.4.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/dreamcraft.studio\/wp-admin\/admin-ajax.php","nonce":"0de132879a","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/js/frontend.minb2da.js?ver=2.4.3'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/position.mine899.js?ver=1.11.4'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/dialog/dialog.minae9e.js?ver=4.7.6'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6'></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/share-link/share-link.mincaa5.js?ver=2.9.13'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.13","urls":{"assets":"https:\/\/dreamcraft.studio\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":499,"title":"Architecture%20Project%20%E2%80%93%20Dream%20Craft%20Studio","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.mincaa5.js?ver=2.9.13'></script>
+</body>
+
+<!-- Mirrored from dreamcraft.studio/architecture-project/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Feb 2023 06:19:51 GMT -->
+</html>

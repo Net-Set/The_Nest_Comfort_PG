@@ -1,0 +1,38 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+envytheme.com	TRUE	/	FALSE	1999999999	PHPSESSID	i9lvr081lsrpng8elul9kijqdg
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&06c5ca5d-b943-4b58-8393-4c98d721faee"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&2023031009304160c70c75-7f8b-4edb-84d9-54b1fa92a25aAQFQqFpwfnUzM4W9CrixD-1b8qr_ndmj"
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=VGST07:s=V:r=V:a=V:p=V:g=2573:u=1:x=1:i=1678440641:t=1678527041:v=2:sig=AQFEGlL-1D6IdsKi9M-juA1mtrUo3tsb"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.linkedin.com	TRUE	/	FALSE	1999999999	ccookie	0001AQGyjEFpVPU8UQAAAYbK27HoGUfsXWXdNgYiETU4ktvmGIhTJudc5m+/LHKLVFM+E4o5weGEggMFAFD0oPPlpWcNgimnVTrB1KfAC2xaRqp6RsTZFSR2Gt/ZkVv2xBLa11AX43Uyj8DL+JGnXsYZHv/JfNq2q2iEDuHXFd8wtpa7/G1eFcqJ
+envytheme.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_2c606f55294990d31395f50e57969fb4	t_e63f0648f507dc4cc691ec8880de1a%7C%7C1678613481%7C%7C1678609881%7C%7C057e60ab8e8e26660ef2b62615d37743
+envytheme.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+dribbble.com	TRUE	/	FALSE	1999999999	_dribbble_session	UGxoNWwrU3FkamkxVG11eFZwVWF5UHBPU3RNYU03ajVSZEg5bURwZENpSUZTUkhBYVg2eTk2eEd5ZHpnZUJINVhIV2ZMSHJVKzFJZ1FRNjUwejBtZkE9PS0ta1g2aW9uWWxmSzFJUXB4WkZnTzJaQT09--b51d781ae68599ebc1aeebfeaa89ee091a7340f9
+envytheme.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	c05c8491489a247e4068582d8bfbf0af
+.google.com	TRUE	/	FALSE	1999999999	1P_JAR	2023-03-10-09
+.google.com	TRUE	/	FALSE	1999999999	NID	511=b4nFiYR9ZCXUpt13gevH5eN5XJ7ldMikDtgjvJD7jAOWE8zsakEyNOPkJvFslLeKAPM0JqhbAdbWKnse2hOCLfowADXPMk3vM2iisizsDNIji3YprDr4lywtINYgF61we6n8C9aMwc8JF2oV6aGY09iOzv0XxiFiNKiu2-Yj424
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A167844084510726988
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A167844084510726988
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A167844084510726988
+.twitter.com	TRUE	/	FALSE	1999999999	ct0	2d9d37e9e708f1b7a4f6b51ae43dba7a
+help.twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+help.twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+help.twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+help.twitter.com	TRUE	/	FALSE	1999999999	cms-csp-nonce	ebb4a87ed02e9a0dffda252cd80db4b
+legal.twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+legal.twitter.com	TRUE	/	FALSE	1999999999	cms-csp-nonce	bfcc99805c14a8576cdec37e055f8c4
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_CHYR/NIstintp/2ZgelMlQ=="
+business.twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+business.twitter.com	TRUE	/	FALSE	1999999999	cms-csp-nonce	dcd6e25a4a3d1ed377ac6b6c464e3cb
+.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	gwaDqLTBh3SsoMtgmZIhBRTnX9MR7iv3
+.instagram.com	TRUE	/	FALSE	1999999999	mid	ZAr5lgAEAAGie6VVGMSEvy2E5LpT
+.instagram.com	TRUE	/	FALSE	1999999999	ig_did	75EF91B0-3FA7-4673-8D21-A23B0AFB86A2
+.instagram.com	TRUE	/	FALSE	1999999999	ig_nrcb	1
+.facebook.com	TRUE	/	FALSE	1999999999	datr	dPoKZKRfq0DwYKLoYbpAqCzp
+.facebook.com	TRUE	/	FALSE	1999999999	sb	dPoKZEVz0IHAuJcTZGPcsWua
+www.facebook.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.facebook.com	TRUE	/	FALSE	1999999999	SameSite	None
+.facebook.com	TRUE	/	FALSE	1999999999	fr	02niS4PSoA9VFG2Ee..BkCvp5.6j.AAA.0.0.BkCvp8.AWUOX33C7e0
+www.facebook.com	TRUE	/	FALSE	1999999999	SameSite	None
+

@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.thenestcomfortpg.com	TRUE	/	FALSE	1999999999	PHPSESSID	04a7016c58adbff5e4af54bfe3ebe56a360779e8
+

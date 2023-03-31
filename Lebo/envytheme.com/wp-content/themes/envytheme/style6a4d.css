@@ -1,0 +1,34 @@
+/*
+Theme Name: EnvyTheme
+Theme URI: https://envytheme.com/
+Author: EnvyTheme
+Author URI: https://envytheme.com/
+Description: A Premium High Quality Themes & Templates Platform
+Version: 1.3
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: envytheme
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+*/
+
+.tf-single-item .price, .tf-item-price .price{
+    display: none;
+}
+
+.single-pricing-box.active {
+    filter: blur(9px);
+}
+
+.single-pricing-box.active .default-btn {
+	display: none;
+}
+
+
+.copyright-area .payment-card li img {
+    max-width: 100% !important;
+}
+
+tr.woocommerce-cart-form__cart-item.cart_item td.product-thumbnail img {
+	width: 50px;
+}
+

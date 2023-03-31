@@ -1,0 +1,20 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+vegina-store.myshopify.com	TRUE	/nl	FALSE	1999999999	localization	DE
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	ff6e7b69fa7ae38f27896cb698edf781
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	preview_theme	1
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	cart	473b664b39411ee5d86d7445e4bf2b96
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1678452168
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	checkout_session_token__c__473b664b39411ee5d86d7445e4bf2b96	%7B%22token%22%3A%22TElQRW9MUUhIN1ZCRWpUbVBJRWVKVUNKREtqZGw1SHVzd0ltNU1HZHJLMHN1ZGM1dUpDRmkzTGt0WlNkdTJsYnpUQVZCeUgvSnNMWXY3RDBTdS9LQnlZTmltQkJMeDFYQ0J4QUg1NytmbVhEencwNUxndWgvZDRqYjdWUVQxOUZ5ZFdzV2hkZ0RsRlJtRkZ4RzArYzJwSC9lcGtwcnlULzFlSitlU3o4aWQrZzArczVNSEZOMjFnOWZhNVl3VFlZQUUwWEMvaVZwczg1VGVUSXNuQ3ZnY2o2MGMrNlRDUlRlcXZkeTVKbkxUVGlJU1ZqeWM2dlN1N0VHQy9XcmJ1dFJPTUtVOVp3b2FhdjdudHExRXhzd2Y0PS0tSFFjSXEwV0lTekJzZlplWi0tdnNvOTBZWnpJQ3lWYnJOUjFTajJBdz09%22%2C%22locale%22%3A%22en-DE%22%7D
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	checkout_session_lookup	%7B%22version%22%3A1%2C%22keys%22%3A%5B%7B%22source_id%22%3A%22473b664b39411ee5d86d7445e4bf2b96%22%2C%22checkout_session_identifier%22%3A%228a95c7a7abdf91c946b1d2d48f1d8463%22%2C%22source_type_abbrev%22%3A%22c%22%2C%22updated_at%22%3A%222023-03-10T12%3A42%3A48.211Z%22%7D%5D%7D
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	cart_sig	37ba4b9642747f912a6b033b380a3fcc
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-central1%3A7
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	localization	DE
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	EUR
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	_y	851c3707-bc9e-4753-a643-ae5a647d6955
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	_s	c5ddb208-037a-43db-bc80-21d70aa25165
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	851c3707-bc9e-4753-a643-ae5a647d6955
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	c5ddb208-037a-43db-bc80-21d70aa25165
+vegina-store.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

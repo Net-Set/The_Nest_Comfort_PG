@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voylla.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voylla.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voylla.com/collections/bagh-e-fiza-1.atom"/>
+  <title>VOYLLA</title>
+  <updated>2022-12-20T00:53:43+05:30</updated>
+  <author>
+    <name>VOYLLA</name>
+  </author>
+  <entry>
+    <id>https://www.voylla.com/products/7399026262182</id>
+    <published>2022-12-20T00:53:43+05:30</published>
+    <updated>2022-12-20T00:53:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-gulubandh-style-necklace"/>
+    <title>Bagh E Fiza Gulubandh Style Necklace</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-gulubandh-style-necklace-vmjai40959-ms-20190605-16067-byxns6.jpg?v=1671105016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            744.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Gulubandh style brass necklace inspired by Jaipuri block printing patterns. Wear the silver plated necklace with ethnic looks.</p><p></p><li>Weight (Gms): 25.44</li><li>Size (LxW)(Inch): 29*6.75</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 1 Necklace</li><li>Product Code: 8907617929392</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1500-1999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Choker</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399026262182</id>
+      <title>Default Title</title>
+      <s:price currency="INR">744.00</s:price>
+      <s:sku>VMJAI40959</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399026131110</id>
+    <published>2022-12-09T12:56:32+05:30</published>
+    <updated>2022-12-09T12:56:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-pastel-enamel-embellished-necklace"/>
+    <title>Bagh E Fiza Pastel Enamel Embellished Necklace</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-enamel-embellished-necklace-vmjai40958-ms-20190720-4401-v0h3uw.jpg?v=1671526093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            744.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Pastel Enamel embellished necklace inspired by the fresh patterns of Sanganeri Block prints. Made from skin friendly brass and silver plated. Wear the choker with a casual kurta.</p><p></p><li>Weight (Gms): 23.59</li><li>Size (LxW)(Inch): 28*6.75</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 1 Necklace</li><li>Product Code: 8907617929385</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1500-1999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Long</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399026131110</id>
+      <title>Default Title</title>
+      <s:price currency="INR">744.00</s:price>
+      <s:sku>VMJAI40958</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7465738404006</id>
+    <published>2022-07-27T17:08:47+05:30</published>
+    <updated>2022-07-27T17:08:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-enamel-embellished-brass-pendant-vmjai40977"/>
+    <title>Bagh E Fiza Enamel Embellished Brass Pendant</title>
+    <s:type>Pendants</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI40977_CS.jpg?v=1671526025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Pendants<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Enamel embellished pendant inspired by block printing patterns. Made from brass and silver plated. Good match for ethnic looks.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 9.46</li><li>Size (LxW)(Inch): 26.85*2.5</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 1 Pendant</li><li>Product Code: 8907617929583</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>With Chain</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7465738404006</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40977</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7465738371238</id>
+    <published>2022-07-27T17:08:47+05:30</published>
+    <updated>2022-07-27T17:08:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-lightly-embellished-brass-pendant-vmjai40976"/>
+    <title>Bagh E Fiza Lightly Embellished Brass Pendant</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI40976_CS.jpg?v=1671526082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Lightly embellished brass pendant inspired by the art of block printing. Wear the silver plated pendant with ethnic attire.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 8.64</li><li>Size (LxW)(Inch): 26.25*2.25</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 1 Necklace</li><li>Product Code: 8907617929576</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Long</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7465738371238</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40976</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7465738338470</id>
+    <published>2022-07-27T17:08:46+05:30</published>
+    <updated>2022-07-27T17:08:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-leaves-adjustable-ring-vmjai40974"/>
+    <title>Bagh E Fiza Leaves Adjustable Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI40974_CS.jpg?v=1669286844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Leaves motifs adjustable brass ring inspired by the art of block printing. Silver plated and a good match for casual ethnic and Indo-Western attire.
+This piece of jewelry comes with the Voylla assurance of quality and durability. Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. <br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 6.12</li><li>Size (LxW)(Inch): 1.65*0.65</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 1 Ring</li><li>Product Code: 8907617929545</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Statement</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7465738338470</id>
+      <title>Adjustable</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40974-Adjustable</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7465738240166</id>
+    <published>2022-07-27T17:08:45+05:30</published>
+    <updated>2022-07-27T17:08:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-bahara-floral-necklace-vmjai40960"/>
+    <title>Bagh E Fiza Bahara Floral Necklace</title>
+    <s:type>Pendants</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI40960_CS.jpg?v=1671525988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Pendants<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Lightly embellished with mint green &amp; mustard beads the Bahara necklace inspired by the designs of block printing art. Crafted from brass and fi ished with enamelling on silver plating. Wear with a summer dress.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 12.02</li><li>Size (LxW)(Inch): 25.75*2</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 1 Pendant; 1 Chain</li><li>Product Code: 8907617929408</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>With Chain</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7465738240166</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40960</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7465738207398</id>
+    <published>2022-07-27T17:08:45+05:30</published>
+    <updated>2022-07-27T17:08:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-spring-layered-jhumka-earrings-vmjai40948"/>
+    <title>Bagh E Fiza Spring Layered Jhumka Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI40948_CS.jpg?v=1671526106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> The floral motifs of Sanganeri art printing have inspired these jhumka earrings. Hand enamelled on brass and silver plating. Grab attention on the lunch brunch by pairing these with cotton kurti.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 25.35</li><li>Size (LxW)(Inch): 3.5*0.85</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929286</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1500-1999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gifts for Her</s:tag>
+    <s:tag>Jhumkis</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Trendy Picks</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7465738207398</id>
+      <title>Default Title</title>
+      <s:price currency="INR">789.00</s:price>
+      <s:sku>VMJAI40948</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7465738141862</id>
+    <published>2022-07-27T17:08:44+05:30</published>
+    <updated>2022-07-27T17:08:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-leaves-drop-ring-vmjai40943"/>
+    <title>Bagh E Fiza Leaves Drop Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI40943_CS.jpg?v=1669286869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Leaves motifs finger ring inspired by block printing patterns. Made from brass and silver plating. Wear with casual attire.
+This piece of jewelry comes with the Voylla assurance of quality and durability. Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. <br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 6.12</li><li>Size (LxW)(Inch): 1.65*0.65</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 1 Ring</li><li>Product Code: 8907617929217</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Statement</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7465738141862</id>
+      <title>Adjustable</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40943-Adjustable</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7465738109094</id>
+    <published>2022-07-27T17:08:43+05:30</published>
+    <updated>2022-07-27T17:08:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-set-of-3-rings-vmjai40942"/>
+    <title>Bagh E Fiza Set of 3 Rings</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI40942_CS.jpg?v=1671526101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Set of 3 brass rings inspired by patterns of block printing. Lightly embellished and silver plated. Good for everyday wear.
+This piece of jewelry comes with the Voylla assurance of quality and durability. Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. <br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 11.97</li><li>Size (LxW)(Inch): 0.85*1.15</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 3 Rings</li><li>Product Code: 8907617929194</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Gifts for Her</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Statement</s:tag>
+    <s:tag>Trendy Picks</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7465738109094</id>
+      <title>Adjustable</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40942-Adjustable</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7465738076326</id>
+    <published>2022-07-27T17:08:43+05:30</published>
+    <updated>2022-07-27T17:08:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-floral-motif-ring-vmjai40941"/>
+    <title>Bagh E Fiza Floral Motif Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI40941_CS.jpg?v=1671526038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Floral motif ring made from brass and inspired by block printing patterns. Silver plated, enamel embellished and good for everyday wear.
+This piece of jewelry comes with the Voylla assurance of quality and durability. Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. <br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 8.3</li><li>Size (LxW)(Inch): 1.15*1.15</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 1 Ring</li><li>Product Code: 8907617929170</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Statement</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7465738076326</id>
+      <title>Adjustable</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40941-Adjustable</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7465738010790</id>
+    <published>2022-07-27T17:08:41+05:30</published>
+    <updated>2022-07-27T17:08:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-floral-ring-vmjai40938"/>
+    <title>Bagh E Fiza Floral Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI40938_CS.jpg?v=1671526049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Floral ring made from brass and inspired by the forms and designs of block printing. Silver plated, lightweight and comfortable.
+This piece of jewelry comes with the Voylla assurance of quality and durability. Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. <br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 7.35</li><li>Size (LxW)(Inch): 1.25*1.5</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 1 Ring</li><li>Product Code: 8907617929118</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Statement</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7465738010790</id>
+      <title>Adjustable</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40938-Adjustable</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7465737978022</id>
+    <published>2022-07-27T17:08:41+05:30</published>
+    <updated>2022-07-27T17:08:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-pastel-floral-earrings-vmjai40931"/>
+    <title>Bagh E Fiza Pastel Floral Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI40931_CS.jpg?v=1669286854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inspired by the craft of Block printing from Sanganer, these floral earrings have been crafted from nickel free brass. Silver oxidized. Team up with a breezy dress.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 8.55</li><li>Size (LxW)(Inch): 1*1</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929040</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7465737978022</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40931</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7401140388006</id>
+    <published>2022-05-29T17:53:52+05:30</published>
+    <updated>2022-05-29T17:53:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-basanti-leaves-and-flowers-necklace"/>
+    <title>Bagh E Fiza Basanti Leaves and Flowers Necklace</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-leaves-and-flowers-necklace-vmjai40980-ms-20190605-8612-ib01bl.jpg?v=1671525993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            949.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inspired by the art and forms of exotic block printing, the leaves and flowers necklace has been crafted from nickel free brass. Silver plated and a good match for Indo-Western looks.</p><p></p><li>Weight (Gms): 35.22</li><li>Size (LxW)(Inch): 29*7</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 1 Necklace</li><li>Product Code: 8907617929613</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1500-1999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Choker</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>top_seller_oct_15</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7401140388006</id>
+      <title>Default Title</title>
+      <s:price currency="INR">949.00</s:price>
+      <s:sku>VMJAI40980</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7401140355238</id>
+    <published>2022-05-29T17:53:51+05:30</published>
+    <updated>2022-05-29T17:53:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-coloured-beads-earrings"/>
+    <title>Bagh E Fiza Coloured Beads Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-coloured-beads-earrings-vmjai40965-ms-20190604-24038-t629gt.jpg?v=1671526009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Coloured beads adorned brass earrings inspired by block printing patterns. Silver plated and good for everyday wear.</p><p></p><li>Weight (Gms): 18</li><li>Size (LxW)(Inch): 2.75*2</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929453</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Dangler</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7401140355238</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40965</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7401140289702</id>
+    <published>2022-05-29T17:53:49+05:30</published>
+    <updated>2022-05-29T17:53:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-gul-khile-drop-earrings"/>
+    <title>Bagh E Fiza Gul Khile Drop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-embellished-drop-earrings-vmjai40951-ms-20190604-24038-1oz9rsv.jpg?v=1671526061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            769.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inspired by the blooming flowers of Sanganeri block printing,  these Gul Khile drop earrings are crafted with love. Made from skin friendly brass and hand enamelled on silver plating. Great resort wear or a brunch date.  </p><p></p><li>Weight (Gms): 38.18</li><li>Size (LxW)(Inch): 4*2.5</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929316</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000 &amp; above</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jhumkis</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7401140289702</id>
+      <title>Default Title</title>
+      <s:price currency="INR">769.00</s:price>
+      <s:sku>VMJAI40951</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7401140224166</id>
+    <published>2022-05-29T17:53:47+05:30</published>
+    <updated>2022-05-29T17:53:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-pastel-jhumka-layered-earrings"/>
+    <title>Bagh E Fiza Pastel Jhumka Layered Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-jhumka-layered-earrings-vmjai40949-ms-20190604-24038-wvzyh0.jpg?v=1671526097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> The breezy pastel jhumka drop earrings are truly inspired by the Sanganeri floral prints . Made from nickel-free brass and finished with exotic enamelling. Pair with an ethnic summer wear.</p><p></p><li>Weight (Gms): 28.86</li><li>Size (LxW)(Inch): 3.65*0.85</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929293</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1500-1999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jhumkis</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7401140224166</id>
+      <title>Default Title</title>
+      <s:price currency="INR">789.00</s:price>
+      <s:sku>VMJAI40949</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7401140191398</id>
+    <published>2022-05-29T17:53:44+05:30</published>
+    <updated>2022-05-29T17:53:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-enamel-embellished-ring"/>
+    <title>Bagh E Fiza Enamel Embellished Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-enamel-embellished-ring-vmjai40940-ms-20190301-69676-1uvhg63.jpg?v=1669286877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> The forms and designs of block printing have inspired this brass ring, which has been embellished with enamel details. Wear the silver plated ring with a summer dress.
+This piece of jewelry comes with the Voylla assurance of quality and durability. <br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 10.43</li><li>Size (LxW)(Inch): 2.5*1.35</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 1 Ring</li><li>Product Code: 8907617929156</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Engagament Ring</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7401140191398</id>
+      <title>Adjustable</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40940-Adjustable</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7401140158630</id>
+    <published>2022-05-29T17:53:43+05:30</published>
+    <updated>2022-05-29T17:53:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-elegant-leaves-drop-earrings"/>
+    <title>Bagh E Fiza Elegant Leaves Drop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-leaves-drop-earrings-vmjai40936-ms-20190604-12518-zq2a23.jpg?v=1654700130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Elegant leaves motifs drop earrings inspired by Jaipur's popular block printing art. Crafted in nickel-free brass and soothing color tone, these earrings are great pick for the Office wear.</p><p></p><li>Weight (Gms): 8.3</li><li>Size (LxW)(Inch): 1.65*0.5</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929095</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Stud</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7401140158630</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40936</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399028326566</id>
+    <published>2022-05-27T22:03:24+05:30</published>
+    <updated>2022-05-27T22:03:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-tiny-drop-earrings"/>
+    <title>Bagh E Fiza Tiny Drop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-tiny-drop-earrings-vmjai40979-ms-20190605-16067-g8zwe9.jpg?v=1669286735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Tiny drop earrings inspired by block printing. Made from brass and silver plated. Good for casual looks.</p><p></p><li>Weight (Gms): 4.2</li><li>Size (LxW)(Inch): 1.35*0.5</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929606</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Stud</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399028326566</id>
+      <title>Default Title</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku>VMJAI40979</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399028228262</id>
+    <published>2022-05-27T22:03:19+05:30</published>
+    <updated>2022-05-27T22:03:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-colourful-drop-earrings"/>
+    <title>Bagh E Fiza Colourful Drop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-colourful-drop-earrings-vmjai40978-ms-sq-20190605-8612-1hb1vn4.jpg?v=1669286744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Colourful drop style earrings inspired by the art of block printing. Made from brass and silver plated. Wear with a casual kurta.</p><p></p><li>Weight (Gms): 4.25</li><li>Size (LxW)(Inch): 1.5*0.35</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929590</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-499</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Stud</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399028228262</id>
+      <title>Default Title</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku>VMJAI40978</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399027933350</id>
+    <published>2022-05-27T22:03:15+05:30</published>
+    <updated>2022-05-27T22:03:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-floral-design-earrings"/>
+    <title>Bagh E Fiza Floral Design Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-floral-design-earrings-vmjai40975-ms-20190604-24038-1oumljc.jpg?v=1669286804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Floral design earrings, inspired by the art of block printing. Made from brass and silver plated. Good for everyday, casual wear.</p><p></p><li>Weight (Gms): 8.4</li><li>Size (LxW)(Inch): 1.65*0.65</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929569</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Stud</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399027933350</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>VMJAI40975</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399027769510</id>
+    <published>2022-05-27T22:03:07+05:30</published>
+    <updated>2022-05-27T22:03:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-hoop-style-earrings"/>
+    <title>Bagh E Fiza Hoop Style Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-hoop-style-earrings-vmjai40973-ms-20190604-24038-1dj1vxg.jpg?v=1671526068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Hoop style brass earrings with leaves motifs, inspired by patterns of block printing. Silver plated and lightly embellished, the pair is lightweight and comfortable.</p><p></p><li>Weight (Gms): 16.16</li><li>Size (LxW)(Inch): 2.65*1.75</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929538</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Dangler</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399027769510</id>
+      <title>Default Title</title>
+      <s:price currency="INR">429.00</s:price>
+      <s:sku>VMJAI40973</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399027572902</id>
+    <published>2022-05-27T22:03:02+05:30</published>
+    <updated>2022-05-27T22:03:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-leaves-motifs-hoop-earrings"/>
+    <title>Bagh E Fiza Leaves Motifs Hoop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-leaves-motifs-hoop-earrings-vmjai40972-ms-20190604-12518-lbqf4p.jpg?v=1671526078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Leaves motifs hoops earrings made from brass and inspired by the art of block printing. Wear the silver plated pair with a saree.</p><p></p><li>Weight (Gms): 16.16</li><li>Size (LxW)(Inch): 2.65*1.75</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929521</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500-999</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Dangler</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399027572902</id>
+      <title>Default Title</title>
+      <s:price currency="INR">429.00</s:price>
+      <s:sku>VMJAI40972</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399027376294</id>
+    <published>2022-05-27T22:02:56+05:30</published>
+    <updated>2022-05-27T22:02:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-metal-embellishments-brass-earrings"/>
+    <title>Bagh E Fiza Metal Embellishments Brass Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-metal-embellishments-brass-earrings-vmjai40971-ms-20190604-24038-1i6357m.jpg?v=1671526089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            669.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Metal embellishments adorned brass earrings inspired by the art of block printing. Silver plated and good for casual wear.</p><p></p><li>Weight (Gms): 23</li><li>Size (LxW)(Inch): 2.35*2</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929514</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Dangler</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399027376294</id>
+      <title>Default Title</title>
+      <s:price currency="INR">669.00</s:price>
+      <s:sku>VMJAI40971</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7399027212454</id>
+    <published>2022-05-27T22:02:51+05:30</published>
+    <updated>2022-05-27T22:02:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/bagh-e-fiza-half-moon-earrings"/>
+    <title>Bagh E Fiza Half Moon Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/bagh-e-fiza-half-moon-earrings-vmjai40970-ms-20190604-12518-qbpepk.jpg?v=1671526064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            669.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Half moon design earrings inspired by the forms and designs of block printing. Made from brass and silver plated. Wear with ethnic attire.</p><p></p><li>Weight (Gms): 23.05</li><li>Size (LxW)(Inch): 2.35*2</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617929507</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Bagh E Fiza</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Dangler</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>product-Groups_Bagh_E_Fiza</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7399027212454</id>
+      <title>Default Title</title>
+      <s:price currency="INR">669.00</s:price>
+      <s:sku>VMJAI40970</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>

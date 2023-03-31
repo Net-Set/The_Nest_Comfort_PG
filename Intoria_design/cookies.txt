@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demoapus2.com	TRUE	/intoria/	FALSE	1999999999	ppwp_wp_session	5a5eb412bf58c9ac83e5d11bba63dd6c%7C%7C1680160947%7C%7C1680160587
+

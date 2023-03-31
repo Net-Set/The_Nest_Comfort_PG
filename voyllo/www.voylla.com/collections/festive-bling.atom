@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voylla.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voylla.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voylla.com/collections/festive-bling.atom"/>
+  <title>VOYLLA</title>
+  <updated>2022-12-30T18:55:56+05:30</updated>
+  <author>
+    <name>VOYLLA</name>
+  </author>
+  <entry>
+    <id>https://www.voylla.com/products/7641903300774</id>
+    <published>2022-12-30T18:55:56+05:30</published>
+    <updated>2022-12-30T18:55:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/folklore-long-drop-circles-enamelled-earrings-vmjai44478"/>
+    <title>Folklore Long Drop Circles Enamelled Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI44478_CS.jpg?v=1672408272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> The movements, grace and other elements of the Bhavai folk dance have inspired these elegant long drop earrings. Enamelled and silver plated, the earrings have been crafted from brass. A good match for formal, casual and semi-formal looks and outfits of all kinds.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 10.34</li><li>Size (LxW)(Inch): 1.18*0.39</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124477573</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Danglers</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Floklore collection</s:tag>
+    <s:tag>new_mid_november</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Party Wear</s:tag>
+    <s:tag>product-Groups_Folklore</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641903300774</id>
+      <title>Default Title</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>VMJAI44478</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7641902383270</id>
+    <published>2022-12-30T18:55:34+05:30</published>
+    <updated>2022-12-30T18:55:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/folklore-enamelled-silver-toned-cuff-earrings-vmjai44458"/>
+    <title>Folklore Enamelled Silver Toned Cuff Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI44458_CS.jpg?v=1672408180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inspired by the attire, colourfulness and elegance of Rajasthan's traditional Bhavai dance, these enamelled ear cuff have been fashioned out of brass. Silver plated for added charm, the earrings can be paired with Indian, Indo-Western and even Bohemian attire.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 6.76</li><li>Size (LxW)(Inch): 0.79*0.39</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124477313</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1500-1999</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Floklore collection</s:tag>
+    <s:tag>new_mid_november</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Party Wear</s:tag>
+    <s:tag>Product-Groups_Folklore</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641902383270</id>
+      <title>Default Title</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku>VMJAI44458</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7641902284966</id>
+    <published>2022-12-30T18:55:33+05:30</published>
+    <updated>2022-12-30T18:55:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/folklore-silver-plated-enamelled-cuff-earrings-vmjai44457"/>
+    <title>Folklore Silver Plated Enamelled Cuff Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI44457_CS.jpg?v=1672408174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inspired by the elements and grace of the Bhavai folk dance, these cuff earrings have been fashioned out of quality brass. Silver plating adds to the rustic charm of this pair, which is lightweight and versatile.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 7.74</li><li>Size (LxW)(Inch): 0.79*0.39</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124477306</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1500-1999</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Floklore collection</s:tag>
+    <s:tag>new_mid_november</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Party Wear</s:tag>
+    <s:tag>Product-Groups_Folklore</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641902284966</id>
+      <title>Default Title</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku>VMJAI44457</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7641902252198</id>
+    <published>2022-12-30T18:55:31+05:30</published>
+    <updated>2022-12-30T18:55:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/folklore-enamelled-silver-plated-cuff-earrings-vmjai44456"/>
+    <title>Folklore Enamelled Silver Plated Cuff Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI44456_CS.jpg?v=1672408168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Classic cuff earrings inspired by the hues, movements and grace of Rajasthan's traditional Bhavai dance. Enamelled and silver plated, the brass earrings promise to be a comfortable wear at all times. Versatile enough to be paired with just about everything.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 6.97</li><li>Size (LxW)(Inch): 0.79*0.39</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124477290</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1500-1999</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Floklore collection</s:tag>
+    <s:tag>new_mid_november</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Party Wear</s:tag>
+    <s:tag>Product-Groups_Folklore</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641902252198</id>
+      <title>Default Title</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku>VMJAI44456</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7641902153894</id>
+    <published>2022-12-30T18:55:30+05:30</published>
+    <updated>2022-12-30T18:55:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/folklore-coloured-enamel-edgy-earrings-vmjai44455"/>
+    <title>Folklore Coloured Enamel Edgy Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI44455_CS.jpg?v=1672408163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Edgy earrings with coloured enamel details, inspired by the elements of the Bhavai folk dance. Made from brass and silver plated, the earrings will pair well with a wide range of ethnic and Indo-Western outfits.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 12</li><li>Size (LxW)(Inch): 0.39*0.39</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124477283</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Floklore collection</s:tag>
+    <s:tag>new_mid_november</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Party Wear</s:tag>
+    <s:tag>product-Groups_Folklore</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641902153894</id>
+      <title>Default Title</title>
+      <s:price currency="INR">749.00</s:price>
+      <s:sku>VMJAI44455</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7641902088358</id>
+    <published>2022-12-30T18:55:29+05:30</published>
+    <updated>2022-12-30T18:55:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/folklore-spokes-enamelled-stud-earrings-vmjai44454"/>
+    <title>Folklore Spokes Enamelled Stud Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI44454_CS.jpg?v=1672408158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Spokes pattern stud earrings, inspired by the elements of Rajasthan's Bhavai folk dance and fashioned out of high quality brass. The enamelled pair has been given a sparkly silver plating that adds to its charm. Pair with ethnic or Indo-Western attire, or even Bohemian looks.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 11.75</li><li>Size (LxW)(Inch): 1.57*1.57</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124477276</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Floklore collection</s:tag>
+    <s:tag>new_mid_november</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Party Wear</s:tag>
+    <s:tag>Product-Groups_Folklore</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641902088358</id>
+      <title>Default Title</title>
+      <s:price currency="INR">749.00</s:price>
+      <s:sku>VMJAI44454</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7641902055590</id>
+    <published>2022-12-30T18:55:27+05:30</published>
+    <updated>2022-12-30T18:55:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/folklore-aztec-style-enamelled-stud-earrings-vmjai44453"/>
+    <title>Folklore Aztec Style Enamelled Stud Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI44453_CS.jpg?v=1672408152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inspired by the colours, movements and grace of Rajasthan's Bhavai folk dance, these Aztec style stud earrings have been crafted from brass. Enamelled and silver plated, the earrings are lightweight, comfortable and versatile.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 11.86</li><li>Size (LxW)(Inch): 0.39*0.39</li><li>Material: Brass</li><li>Plating: Silver Plating</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124477269</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Floklore collection</s:tag>
+    <s:tag>new_mid_november</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Party Wear</s:tag>
+    <s:tag>Product-Groups_Folklore</s:tag>
+    <s:tag>Silver Plating</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641902055590</id>
+      <title>Default Title</title>
+      <s:price currency="INR">749.00</s:price>
+      <s:sku>VMJAI44453</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7641900908710</id>
+    <published>2022-12-30T18:54:55+05:30</published>
+    <updated>2022-12-30T18:54:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/benzene-half-hoop-gold-plated-earrings-vmjai44227"/>
+    <title>Benzene Gold Half Hoop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI44227_CS.jpg?v=1672408009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Geometric, half hoop earrings, inspired by the Benzene compound's hexagonal molecular structure. The enamelled pair has been fashioned out of brass. The gold plated earrings will look lovely with a classic summer dress.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 9</li><li>Size (LxW)(Inch): 0.71*0.31</li><li>Material: Brass</li><li>Plating: Yellow Gold</li><li>Color: Gold</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124456615</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Benzene</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Contemporary</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Hoops</s:tag>
+    <s:tag>new_mid_november</s:tag>
+    <s:tag>Office Wear</s:tag>
+    <s:tag>Product-Groups_Benzene+Gold</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Yellow Gold</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641900908710</id>
+      <title>Default Title</title>
+      <s:price currency="INR">750.00</s:price>
+      <s:sku>VMJAI44227</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7641900679334</id>
+    <published>2022-12-30T18:54:48+05:30</published>
+    <updated>2022-12-30T18:54:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/shwet-kamal-peacock-motif-pink-enamelled-silver-plated-earrings-vmjai44125"/>
+    <title>Shwet Kamal Peacock Motif Pink Enamelled Silver Plated Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI44125_CS.jpg?v=1672407974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            720.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Perfectly crafted into a delicate peacock motif, these brass earrings have been given a silver plating for added charm. Featuring zircon embellishments and pink enamel details, the earrings can be paired with a casual jeans and kurta outfit or even a saree.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 8.82</li><li>Size (LxW)(Inch): 1*1</li><li>Material: Brass</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124446760</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>Party Wear</s:tag>
+    <s:tag>product-Groups_Shwet_Kamal</s:tag>
+    <s:tag>Shwet Kamal</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641900679334</id>
+      <title>Default Title</title>
+      <s:price currency="INR">720.00</s:price>
+      <s:sku>VMJAI44125</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7641900482726</id>
+    <published>2022-12-30T18:54:43+05:30</published>
+    <updated>2022-12-30T18:54:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/apsara-peacock-motif-pearls-stud-earrings-vmjai44039"/>
+    <title>Apsara Peacock Motif Pearls Stud Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI44039_CS.jpg?v=1672407947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            840.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Pearls embellished peacock motif stud earrings. Made from brass and gold plated. A good match for ethnic looks of all kinds.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 16.5</li><li>Size (LxW)(Inch): 0.39*0.39</li><li>Material: Brass</li><li>Plating: Dye Gold</li><li>Color: Gold</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124444063</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Apsara</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Dye Gold</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Party Wear</s:tag>
+    <s:tag>product-Groups_Shwet_Kamal</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641900482726</id>
+      <title>Default Title</title>
+      <s:price currency="INR">840.00</s:price>
+      <s:sku>VMJAI44039</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7641899794598</id>
+    <published>2022-12-30T18:54:26+05:30</published>
+    <updated>2022-12-30T18:54:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/intricate-statement-earrings-with-multicoloured-details-vmjai25780"/>
+    <title>Intricate Statement Earrings With Multicoloured Details</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI25780_01.jpg?v=1672407870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> An artistic pair of earrings inspired from the lovely and vibrant land of Kutch, this will make a worthy addition to your jewelry collection. Intricate patterns on these beauties are a result of excellent craftsmanship and the earrings boast absolute flawlessness in terms of design and styling. Carved with utmost care from brass and 3% silver, this pair has been silver plated for maximum sheen and will look splendid will all your favorite outfits.
+This piece of jewelry comes with the Voylla assurance of quality and durability.
+Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. <br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 5.77</li><li>Size (LxW)(Inch): 1*1</li><li>Material: Alloy</li><li>Plating: Oxidized Silver</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8907617799261</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Alloy</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Kutch</s:tag>
+    <s:tag>Oxidised</s:tag>
+    <s:tag>Oxidized Silver</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Wedding Wear</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641899794598</id>
+      <title>Default Title</title>
+      <s:price currency="INR">690.00</s:price>
+      <s:sku>VMJAI25780</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7641892946086</id>
+    <published>2022-12-30T18:51:26+05:30</published>
+    <updated>2022-12-30T18:51:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/pearl-beads-droppings-gold-toned-jhumki-earrings-dcjai71532"/>
+    <title>Pearl Beads Droppings Gold Toned Jhumki Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/DCJAI71532_CS.jpg?v=1672406995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            810.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> A pair of delicate and trendy jhumki earrings in gold tone studded with pearl beads that will make your look more charming. Pair them with any of your ethnic outfits for a perfect look.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 13</li><li>Size (LxW)(Inch): 1.1*0.59</li><li>Material: Brass</li><li>Plating: Yellow Gold</li><li>Color: Gold</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124436570</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jhumkis</s:tag>
+    <s:tag>Party Wear</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Yellow Gold</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641892946086</id>
+      <title>Default Title</title>
+      <s:price currency="INR">810.00</s:price>
+      <s:sku>DCJAI71532</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7641892913318</id>
+    <published>2022-12-30T18:51:25+05:30</published>
+    <updated>2022-12-30T18:51:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/gold-tone-jhumki-earrings-dcjai71496"/>
+    <title>Gold Tone Jhumki Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/DCJAI71496_CS.jpg?v=1672406990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            720.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Beautiful pair of jhumki earrings with slim tassels with beads and a dangling jhumki motif with pearl beads, perfect pick to style with your ethnic attires.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 11</li><li>Size (LxW)(Inch): 1.42*0.59</li><li>Material: Brass</li><li>Plating: Yellow Gold</li><li>Color: Gold</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124436211</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Jhumkis</s:tag>
+    <s:tag>Party Wear</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Yellow Gold</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7641892913318</id>
+      <title>Default Title</title>
+      <s:price currency="INR">720.00</s:price>
+      <s:sku>DCJAI71496</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7631077867686</id>
+    <published>2022-12-13T15:48:14+05:30</published>
+    <updated>2022-12-13T15:48:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/sparkling-elegance-cluster-setting-cz-floral-earrings-vmjai44308"/>
+    <title>Sparkling Elegance Cluster Setting CZ Floral Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI44308_CS.jpg?v=1670927785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            870.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Floral motif stud earrings with CZ gemstones in a classic cluster setting. Gold plated and fashioned out of brass. A good match for casual and semi-formal outfits.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 4.08</li><li>Size (LxW)(Inch): 10*10</li><li>Material: Brass</li><li>Plating: Two Tone</li><li>Color: Silver</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124464269</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Sparkling Essentials</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Two Tone</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7631077867686</id>
+      <title>Default Title</title>
+      <s:price currency="INR">870.00</s:price>
+      <s:sku>VMJAI44308</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7631077834918</id>
+    <published>2022-12-13T15:48:12+05:30</published>
+    <updated>2022-12-13T15:48:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/sparkling-essentials-interlocked-marquise-earrings-vmjai44307"/>
+    <title>Sparkling Essentials Interlocked Marquise Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI44307_CS.jpg?v=1670927791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            870.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Marquise pattern interlocked earrings with zircon gemstones. Made from brass and gold plated. Pair with formal or casual looks.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 4.54</li><li>Size (LxW)(Inch): 10*10</li><li>Material: Brass</li><li>Plating: Two Tone</li><li>Color: gold</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124464252</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Sparkling Essentials</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Two Tone</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7631077834918</id>
+      <title>Default Title</title>
+      <s:price currency="INR">870.00</s:price>
+      <s:sku>VMJAI44307</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7631076917414</id>
+    <published>2022-12-13T15:47:41+05:30</published>
+    <updated>2022-12-13T15:47:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/voylla-rose-gold-plated-brass-earrings-vmjai43692"/>
+    <title>Voylla Rose Gold-Plated Brass Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/VMJAI43692_CS.jpg?v=1670927898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Adorn your diva look with these rose gold earrings. The simple yet elegant style is the one that makes it so unique. The perfect finish adds glamour to them. This pair of earrings will look good with every outfit and the simple design makes it easy for daily wear.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 6.56</li><li>Size (LxW)(Inch): 1.3*0.5</li><li>Material: Brass</li><li>Plating: Rose Gold</li><li>Color: Rose Gold</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124432862</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>9 To 5 with Voylla</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7631076917414</id>
+      <title>Default Title</title>
+      <s:price currency="INR">750.00</s:price>
+      <s:sku>VMJAI43692</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7631075737766</id>
+    <published>2022-12-13T15:47:07+05:30</published>
+    <updated>2022-12-13T15:47:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/coloured-zircon-gems-and-white-pearl-beads-stud-earrings-ryjai20171"/>
+    <title>Coloured Zircon Gems and White Pearl Beads Stud Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/RYJAI20171_CS.jpg?v=1670928059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            780.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Yellow gold plated stud earrings with coloured zirconia gemstones and white pearl beads. Made from brass. Good for ethnic looks of all kinds.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 15.71</li><li>Size (LxW)(Inch): 20*20</li><li>Material: Brass</li><li>Plating: Yellow Gold</li><li>Color: gold</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124476057</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Sparkling Essentials</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Yellow Gold</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7631075737766</id>
+      <title>Default Title</title>
+      <s:price currency="INR">780.00</s:price>
+      <s:sku>RYJAI20171</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7631075704998</id>
+    <published>2022-12-13T15:47:06+05:30</published>
+    <updated>2022-12-13T15:47:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/classic-gold-plated-white-pearl-beads-stud-earrings-ryjai20170"/>
+    <title>Classic Gold Plated White Pearl Beads Stud Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/RYJAI20170_CS.jpg?v=1670928067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            780.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Traditional style white pearl beaded round stud earrings. Gold plated and crafted from brass. A good match for Indian looks.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 5.57</li><li>Size (LxW)(Inch): 20*20</li><li>Material: Brass</li><li>Plating: Yellow Gold</li><li>Color: GOLD</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124476040</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Pearl / Beaded</s:tag>
+    <s:tag>Sparkling Essentials</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Yellow Gold</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7631075704998</id>
+      <title>Default Title</title>
+      <s:price currency="INR">780.00</s:price>
+      <s:sku>RYJAI20170</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7631075639462</id>
+    <published>2022-12-13T15:47:04+05:30</published>
+    <updated>2022-12-13T15:47:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/pink-cz-and-white-pearl-beads-round-stud-earrings-ryjai20169"/>
+    <title>Pink CZ and White Pearl Beads Round Stud Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/RYJAI20169_CS.jpg?v=1670928074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            780.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Brass round stud earrings with pink CZ gems and white pearl beads. Gold plated for added charm. Wear with ethnic or Indo Western attire.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 5.78</li><li>Size (LxW)(Inch): 20*20</li><li>Material: Brass</li><li>Plating: Yellow Gold</li><li>Color: gold</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124476033</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Sparkling Essentials</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Yellow Gold</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7631075639462</id>
+      <title>Default Title</title>
+      <s:price currency="INR">780.00</s:price>
+      <s:sku>RYJAI20169</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7631075442854</id>
+    <published>2022-12-13T15:47:00+05:30</published>
+    <updated>2022-12-13T15:47:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/pearl-beaded-pink-zirconia-gemstones-stud-earrings-ryjai20152"/>
+    <title>Pearl Beaded Pink Zirconia Gemstones Stud Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/RYJAI20152_CS.jpg?v=1670928100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            870.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Pearl beaded stud earrings with pink CZ gemstones. Gold plated and made from brass. Lightweight, comfortable and versatile.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 6.46</li><li>Size (LxW)(Inch): 22*22</li><li>Material: Brass</li><li>Plating: Yellow Gold</li><li>Color: GOLD</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124475869</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Pearl / Beaded</s:tag>
+    <s:tag>Sparkling Essentials</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Yellow Gold</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7631075442854</id>
+      <title>Default Title</title>
+      <s:price currency="INR">870.00</s:price>
+      <s:sku>RYJAI20152</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7631075377318</id>
+    <published>2022-12-13T15:46:59+05:30</published>
+    <updated>2022-12-13T15:46:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/pearl-beaded-pink-and-green-cz-stud-earrings-ryjai20151"/>
+    <title>Pearl Beaded Pink and Green CZ Stud Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/RYJAI20151_CS.jpg?v=1670928108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            870.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> White pearl beaded pink and green CZ gems stud earrings. Crafted from brass and gold plated. Good for ethnic looks of all kinds.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 6.83</li><li>Size (LxW)(Inch): 21*21</li><li>Material: Brass</li><li>Plating: Yellow Gold</li><li>Color: GOLD</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124475852</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Pearl / Beaded</s:tag>
+    <s:tag>Sparkling Essentials</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Yellow Gold</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7631075377318</id>
+      <title>Default Title</title>
+      <s:price currency="INR">870.00</s:price>
+      <s:sku>RYJAI20151</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7631075344550</id>
+    <published>2022-12-13T15:46:57+05:30</published>
+    <updated>2022-12-13T15:46:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/green-and-pink-zirconia-gemstones-round-stud-earrings-ryjai20149"/>
+    <title>Green and Pink Zirconia Gemstones Round Stud Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/RYJAI20149_CS.jpg?v=1670928116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            870.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Round stud earrings with green and pink zirconia gemstones. Made from brass and gold plated. Good for ethnic looks.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 6.87</li><li>Size (LxW)(Inch): 21*21</li><li>Material: Brass</li><li>Plating: Yellow Gold</li><li>Color: GOLD</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124475838</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Sparkling Essentials</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Yellow Gold</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7631075344550</id>
+      <title>Default Title</title>
+      <s:price currency="INR">870.00</s:price>
+      <s:sku>RYJAI20149</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7631075279014</id>
+    <published>2022-12-13T15:46:56+05:30</published>
+    <updated>2022-12-13T15:46:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/round-cut-white-zirconia-gems-stud-earrings-ryjai20148"/>
+    <title>Round Cut White Zirconia Gems Stud Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/RYJAI20148_CS.jpg?v=1670928124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            870.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Large round stud earrings with white, round cut CZ gemstones. Made from brass and gold plated. Pair with ethnic and Indo- Western looks.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 8.2</li><li>Size (LxW)(Inch): 20*20</li><li>Material: Brass</li><li>Plating: Yellow Gold</li><li>Color: GOLD</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124475821</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Sparkling Essentials</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Yellow Gold</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7631075279014</id>
+      <title>Default Title</title>
+      <s:price currency="INR">870.00</s:price>
+      <s:sku>RYJAI20148</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7631074558118</id>
+    <published>2022-12-13T15:46:29+05:30</published>
+    <updated>2022-12-13T15:46:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/white-pearl-beaded-coloured-cz-stud-earrings-ryjai20132"/>
+    <title>White Pearl Beaded Coloured CZ Stud Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/RYJAI20132_CS.jpg?v=1670928215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            780.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> White pearls and coloured CZ stud earrings. Made from brass and gold plated. Good match for ethnic looks.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 5.92</li><li>Size (LxW)(Inch): 20*20</li><li>Material: Brass</li><li>Plating: Yellow Gold</li><li>Color: gold</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124475661</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Pearl / Beaded</s:tag>
+    <s:tag>Sparkling Essentials</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Yellow Gold</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7631074558118</id>
+      <title>Default Title</title>
+      <s:price currency="INR">780.00</s:price>
+      <s:sku>RYJAI20132</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7631074492582</id>
+    <published>2022-12-13T15:46:27+05:30</published>
+    <updated>2022-12-13T15:46:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/white-pearl-beaded-clear-zirconia-gems-stud-earrings-ryjai20131"/>
+    <title>White Pearl Beaded Clear Zirconia Gems Stud Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/RYJAI20131_CS.jpg?v=1670928223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            780.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> White pearl beaded stud earrings with clear CZ gemstones. Gold plated and crafted from brass. Good for casual looks.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 5.8</li><li>Size (LxW)(Inch): 20*20</li><li>Material: Brass</li><li>Plating: Yellow Gold</li><li>Color: GOLD</li><li>Sales Package: 2 Earrings</li><li>Product Code: 8905124475654</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000-1499</s:tag>
+    <s:tag>Brass</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Pearl / Beaded</s:tag>
+    <s:tag>Sparkling Essentials</s:tag>
+    <s:tag>Studs</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Yellow Gold</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7631074492582</id>
+      <title>Default Title</title>
+      <s:price currency="INR">780.00</s:price>
+      <s:sku>RYJAI20131</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

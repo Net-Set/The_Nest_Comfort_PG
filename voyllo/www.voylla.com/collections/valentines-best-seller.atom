@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voylla.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voylla.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voylla.com/collections/valentines-best-seller.atom"/>
+  <title>VOYLLA</title>
+  <updated>2022-06-24T22:29:53+05:30</updated>
+  <author>
+    <name>VOYLLA</name>
+  </author>
+  <entry>
+    <id>https://www.voylla.com/products/7430370263206</id>
+    <published>2022-06-24T22:29:53+05:30</published>
+    <updated>2022-06-24T22:29:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/cz-studded-925-sterling-silver-pendant-set-njjai20371"/>
+    <title>CZ Studded 925 Sterling Silver Pendant Set</title>
+    <s:type>Necklace Sets</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/NJJAI20371_CS.jpg?v=1671273098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Necklace Sets<br>
+        <strong>Price: </strong>
+            3199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> An elegant heart shaped sterling silver set; featuring a dainty chain. Match this pretty ornament with your party wear to add more of edge and oomph in your look!<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 5.72</li><li>Size (LxW)(Inch): 18*0.4</li><li>Material: 925 Sterling Silver</li><li>Plating: Anti Tarnish</li><li>Color: Silver</li><li>Sales Package: 1 Pendant; 2 Earrings</li><li>Product Code: 8905124451801</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000 &amp; above</s:tag>
+    <s:tag>925 Sterling Silver</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Anti Tarnish</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Necklace Sets</s:tag>
+    <s:tag>product-Groups_Sparkling_Silver</s:tag>
+    <s:tag>Short</s:tag>
+    <s:tag>Sparkling Silver</s:tag>
+    <s:tag>Valentine_2023</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7430370263206</id>
+      <title>Default Title</title>
+      <s:price currency="INR">3199.00</s:price>
+      <s:sku>NJJAI20371</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7430368854182</id>
+    <published>2022-06-24T22:29:30+05:30</published>
+    <updated>2022-06-24T22:29:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/classic-heart-shaped-925-silver-pendant-set-njjai20398"/>
+    <title>Classic Heart Shaped 925 Silver Pendant Set</title>
+    <s:type>Necklace Sets</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/NJJAI20398_CS.jpg?v=1669722259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Necklace Sets<br>
+        <strong>Price: </strong>
+            2799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> The only thing that you will come to your mind after looking at this wonderful design is; Wow! Grab this chance of owning this classic heart shaped pendant set now.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 6.78</li><li>Size (LxW)(Inch): 18*0.4</li><li>Material: 925 Sterling Silver</li><li>Plating: Anti Tarnish</li><li>Color: Silver</li><li>Sales Package: 1 Pendant; 2 Earrings</li><li>Product Code: 8905124452075</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000 &amp; above</s:tag>
+    <s:tag>925 Sterling Silver</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Anti Tarnish</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Necklace Sets</s:tag>
+    <s:tag>product-Groups_Sparkling_Silver</s:tag>
+    <s:tag>Short</s:tag>
+    <s:tag>Sparkling Silver</s:tag>
+    <s:tag>Valentine_2023</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7430368854182</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2799.00</s:price>
+      <s:sku>NJJAI20398</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7430368755878</id>
+    <published>2022-06-24T22:29:29+05:30</published>
+    <updated>2022-06-24T22:29:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/beautiful-925-sterling-silver-heart-shape-pendant-set-njjai20400"/>
+    <title>Beautiful 925 Sterling Silver Heart-Shape Pendant Set</title>
+    <s:type>Necklace Sets</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/NJJAI20400_CS.jpg?v=1671272737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Necklace Sets<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> With a marvelous heart shape design along with 925 sterling silver exterior with sterling silver plating and red colored stones, this super sensual adornment is a must have in your collection set.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 5.1</li><li>Size (LxW)(Inch): 18*0.3</li><li>Material: 925 Sterling Silver</li><li>Plating: Anti Tarnish</li><li>Color: Silver</li><li>Sales Package: 1 Pendant; 2 Earrings</li><li>Product Code: 8905124452099</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000 &amp; above</s:tag>
+    <s:tag>925 Sterling Silver</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Anti Tarnish</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Necklace Sets</s:tag>
+    <s:tag>product-Groups_Sparkling_Silver</s:tag>
+    <s:tag>Short</s:tag>
+    <s:tag>Sparkling Silver</s:tag>
+    <s:tag>Valentine_2023</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7430368755878</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2499.00</s:price>
+      <s:sku>NJJAI20400</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7430365315238</id>
+    <published>2022-06-24T22:28:34+05:30</published>
+    <updated>2022-06-24T22:28:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/adorable-925-sterling-silver-heart-shape-pendant-set-with-diamond-sparkling-njjai20407"/>
+    <title>Adorable 925 Sterling Silver Heart-Shape Pendant Set With Diamond Sparkling</title>
+    <s:type>Necklace Sets</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/NJJAI20407_CS.jpg?v=1671272659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Necklace Sets<br>
+        <strong>Price: </strong>
+            3399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Simply amazing and becharming! This 925 sterling silver heart shaped pendant set can steal any female's heart. Gift your beloved person this beautifully designed pendant set by Voylla. With the striking design, perfect finish and excellent finish, this sterling silver set is sure to win her heart.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 8.25</li><li>Size (LxW)(Inch): 18*0.4</li><li>Material: 925 Sterling Silver</li><li>Plating: Anti Tarnish</li><li>Color: Silver</li><li>Sales Package: 1 Pendant; 2 Earrings</li><li>Product Code: 8905124452167</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000 &amp; above</s:tag>
+    <s:tag>925 Sterling Silver</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Anti Tarnish</s:tag>
+    <s:tag>Classics</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Gifts for Her</s:tag>
+    <s:tag>Necklace Sets</s:tag>
+    <s:tag>product-Groups_Sparkling_Silver</s:tag>
+    <s:tag>Short</s:tag>
+    <s:tag>Sparkling Silver</s:tag>
+    <s:tag>Valentine_2023</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7430365315238</id>
+      <title>Default Title</title>
+      <s:price currency="INR">3399.00</s:price>
+      <s:sku>NJJAI20407</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7430364627110</id>
+    <published>2022-06-24T22:28:21+05:30</published>
+    <updated>2022-06-24T22:28:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/925-sterling-silver-heart-shaped-pendant-set-njjai20405"/>
+    <title>925 Sterling Silver Heart Shaped Pendant Set</title>
+    <s:type>Necklace Sets</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/NJJAI20405_CS.jpg?v=1671272226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Necklace Sets<br>
+        <strong>Price: </strong>
+            3399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Simply amazing and becharming! This 925 sterling silver heart shaped pendant set withy shiny purple stones can steal any female's heart.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 8.2</li><li>Size (LxW)(Inch): 18*0.45</li><li>Material: 925 Sterling Silver</li><li>Plating: Anti Tarnish</li><li>Color: Silver</li><li>Sales Package: 1 Pendant; 2 Earrings</li><li>Product Code: 8905124452143</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000 &amp; above</s:tag>
+    <s:tag>925 Sterling Silver</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Anti Tarnish</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Necklace Sets</s:tag>
+    <s:tag>product-Groups_Sparkling_Silver</s:tag>
+    <s:tag>Short</s:tag>
+    <s:tag>Sparkling Silver</s:tag>
+    <s:tag>Valentine_2023</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7430364627110</id>
+      <title>Default Title</title>
+      <s:price currency="INR">3399.00</s:price>
+      <s:sku>NJJAI20405</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voylla.com/products/7421616914598</id>
+    <published>2022-06-18T16:04:51+05:30</published>
+    <updated>2022-06-18T16:04:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://www.voylla.com/products/adorable-925-sterling-silver-heart-shape-pendant-set-njjai20367"/>
+    <title>Adorable 925 Sterling Silver Heart-Shape Pendant Set</title>
+    <s:type>Necklace Sets</s:type>
+    <s:vendor>Voylla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0610/9472/3750/products/NJJAI20367_CS.jpg?v=1671272645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voylla<br>
+        <strong>Type: </strong>Necklace Sets<br>
+        <strong>Price: </strong>
+            2399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> This beautiful heart-shape pendant set glittering with CZ gems is an ideal pick to make your look delightful and sophisticated. Light weight, crafted from sterling silver, makes it a perfect day wear.<br>Caring for your fashion jewelry: We, at Voylla, take care of every piece of jewelry so that you don't spend hours caring for them. But do remember, fashion jewelry lasts longer when kept dry and free of chemicals. Follow this simple rule: Your jewelry should be the last thing you put on and the first thing you take off.</p><p></p><li>Weight (Gms): 4.93</li><li>Size (LxW)(Inch): 18*0.5</li><li>Material: 925 Sterling Silver</li><li>Plating: Anti Tarnish</li><li>Color: Silver</li><li>Sales Package: 1 Pendant; 2 Earrings</li><li>Product Code: 8905124451764</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000 &amp; above</s:tag>
+    <s:tag>925 Sterling Silver</s:tag>
+    <s:tag>American Diamond</s:tag>
+    <s:tag>Anti Tarnish</s:tag>
+    <s:tag>Daily Wear</s:tag>
+    <s:tag>Necklace Sets</s:tag>
+    <s:tag>product-Groups_Sparkling_Silver</s:tag>
+    <s:tag>Short</s:tag>
+    <s:tag>Sparkling Silver</s:tag>
+    <s:tag>Valentine_2023</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://www.voylla.com/products/7421616914598</id>
+      <title>Default Title</title>
+      <s:price currency="INR">2399.00</s:price>
+      <s:sku>NJJAI20367</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

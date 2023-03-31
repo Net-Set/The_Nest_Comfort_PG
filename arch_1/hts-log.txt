@@ -1,0 +1,10 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 30 Mar 2023 14:21:16 at https://preview.themeforest.net/item/arch-decor-interior-design-architecture-and-building-business-html5-template/full_screen_preview/21382880 +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2t%Pns2u1%h%B%s%uN0%I0p7DaK0c8T30J10R2H0%kf2A25000%f#f -F "Mozilla/2.0 (compatible; MS FrontPage Express 2.0)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.themeforest.net/item/arch-decor-interior-design-architecture-and-building-business-html5-template/full_screen_preview/21382880 -O1 "C:\My Web Sites\arch_1" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:21:17	Error: 	"Forbidden" (403) at link https://preview.themeforest.net/item/arch-decor-interior-design-architecture-and-building-business-html5-template/full_screen_preview/21382880 (from primary/primary)
+14:21:17	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

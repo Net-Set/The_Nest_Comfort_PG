@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dessau.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+dessau.qodeinteractive.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_cfe2a02e24407e153e957a3b14f77cc6	t_3b56801d15582b171348ae85bd6113%7C%7C1680332915%7C%7C1680329315%7C%7C081b0ac849934ab5d40ceea1117af01b
+dessau.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	23acabc235cd76ab9f48ef5548292bdf
+

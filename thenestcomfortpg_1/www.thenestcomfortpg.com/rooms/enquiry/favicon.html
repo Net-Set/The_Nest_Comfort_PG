@@ -1,0 +1,211 @@
+<!DOCTYPE HTML>
+<html>
+
+<!-- Mirrored from www.thenestcomfortpg.com/rooms/enquiry/favicon.ico by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Mar 2023 12:18:35 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="utf-8">
+<title>The Nest Comfort PG</title>
+<link rel="shortcut icon" href="favicon.html">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700%7cPlayfair+Display:400,700" rel="stylesheet">
+<link href="https://www.thenestcomfortpg.com/assets/developers/css/proj.css" rel="stylesheet" type="text/css" />
+<style>
+body, td, th, input, select, textarea, option, optgroup {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px; 
+	color: black;
+}
+
+</style>
+<link rel="stylesheet" href="https://www.thenestcomfortpg.com/assets/designer/themes/default/css/main.css">
+<link rel="stylesheet" href="https://www.thenestcomfortpg.com/assets/designer/themes/default/css/conditional.css">
+<script type="text/javascript" src="https://www.thenestcomfortpg.com/assets/sitepanel/js/jquery/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="https://www.thenestcomfortpg.com/assets/sitepanel/js/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
+<link type="text/css" href="https://www.thenestcomfortpg.com/assets/sitepanel/js/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css" rel="stylesheet" />
+<script type="text/javascript" src="https://www.thenestcomfortpg.com/assets/sitepanel/js/jquery/tabs.js"></script>
+<script type="text/javascript" src="https://www.thenestcomfortpg.com/assets/sitepanel/js/jquery/superfish/js/superfish.js"></script>
+</head>
+<body style="padding:0">
+<div class="p15">
+<h1 class="mb20">Book Now</h1>
+<input type="hidden" name="rooms_id"  id="rooms_id" value="">
+<form class="form-horizontal " action="#" role="form" method="post">
+
+
+<div class="mt7"><b>RoomTitle :</b></div>
+<div class="mt7"><input name="first_name" id="first_name"   value=""  type="text" placeholder="Full Name *" class="p8 w100 bdr"></div>
+
+<div class="mt7"><input name="email" id="email"  value=""type="text" placeholder="Email ID *" class="p8 w100 bdr"></div>
+
+<div class="mt7"><input name="phone_number" id="phone_number"  value=""type="text" placeholder="Phone Number *" class="p8 w100 bdr"></div>
+
+<div class="mt7">
+<select name="no_bed"  id="no_bed"class="p8 w100 bdr" onChange="changesdates()">
+<option value="">Number of Bed</option>
+<option value="1" >1 Bed</option>
+<option value="2" >2 Bed</option>
+<option value="3" >3 Bed</option>
+<option value="4" >4 Bed</option>
+<option value="5" >5 Bed</option>
+</select>
+</div>
+
+<div class="mt7"><input name="from_date" id="from_date"  value=""type="text" placeholder="Shifting From *" class="p8 w49 bdr cald fl start_date1"> <input name="to_date" id="to_date"  value=""type="text" placeholder="Shifting To *"   class="p8 w49 bdr cald fr end_date1">
+</div>
+<p class="clearfix"></p>
+<input type="hidden" name="final_price" id="final_price" value="0.00">
+<input type="hidden" name="final_price_deposit" id="final_price_deposit" value="0.00">
+
+
+<input type="hidden" name="finaltotal" id="finaltotal" value="0.00">
+<div class="mt7" id="addcomm"><input type="text" name="price" readonly="" value="Amount: Rs.0.00"  placeholder="Amount"class="p8 w100 bdr">
+<br/>
+
+<input type="text" name="price1" readonly="" value="Deposit Amount: Rs.0.00" placeholder="Deposit Amount" class="p8 w100 bdr">
+<br/>
+<input type="text" name="price2" readonly="" value="Total Payable Amount: Rs.0.00" placeholder="Deposit Amount" class="p8 w100 bdr">
+
+ </div>
+
+<div class="mt7"><textarea name="description" id="description" cols="45" rows="5" placeholder="Other Details *" class="p8 w100 bdr"></textarea></div>
+
+<div class="mt5 fl"><input name="verification_code" id="verification_code" type="text" class="p8 bdr" style="width:110px;" placeholder="Enter Code *"></div>
+
+<p class="mt10 fl"><img  src="../../captcha/normal.gif"   alt="" class="" id="captchaimage"title="" ><img src="https://www.thenestcomfortpg.com/assets/designer/themes/default/images/ref2.png" class="vam" alt="" title="" onclick="document.getElementById('captchaimage').src='https://www.thenestcomfortpg.com/captcha/normal/168017871464257e1a5f86e'+Math.random(); document.getElementById('verification_code').focus();" ></p>
+<div class="cb"></div>
+<div class="cb"></div>
+
+<p class="mt10"><input name="action" type="submit" value="Send" class="btn btn-danger trans_eff radius-3"></p>
+</form>
+</div>
+</body>
+<script type="text/javascript" src="https://www.thenestcomfortpg.com/assets/developers/js/ui/jquery-ui-1.8.16.custom.min.js"></script>
+<link type="text/css" href="https://www.thenestcomfortpg.com/assets/developers/js/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css" rel="stylesheet" />
+<script type="text/javascript">
+$(document).ready(function(){
+	$('.btn_sbt2').live('click',function(e){
+		e.preventDefault();
+		$start_date = $('.start_date1:eq(0)').val();
+		$end_date = $('.end_date1:eq(0)').val();
+		$start_date = $start_date=='From' ? '' : $start_date;
+		$end_date = $end_date=='To' ? '' : $end_date;
+		$(':hidden[name="keyword2"]','#ord_frm').val($('input[type="text"][name="keyword2"]').val());   
+		$(':hidden[name="start_date"]','#ord_frm').val($start_date);
+		$(':hidden[name="end_date"]','#ord_frm').val($end_date);
+		$("#ord_frm").submit();
+	});
+	$('.start_date,.end_date').live('click',function(e){
+		e.preventDefault();
+		cls = $(this).hasClass('start_date') ? 'start_date1' : 'end_date1'; 
+		$('.'+cls+':eq(0)').focus();
+	});
+	$( ".start_date1").live('focus',function(){
+		$(this).datepicker({
+			showOn: "focus",
+			dateFormat: 'yy-mm-dd',
+			changeMonth: true,
+			changeYear: true,
+			defaultDate: '70-01-01',
+			buttonText:'',
+			minDate:'70-01-01' ,
+			maxDate:'1971-01-01', 
+			yearRange: "c-100:c+100",
+			buttonImageOnly: true,
+			onSelect: function(dateText, inst) {
+			
+		$.post("../changeprice.html",
+        {
+		//alert($('.end_date1').val());
+          fromdate:$('.start_date1').val(),
+		  todate:document.getElementById('to_date').value,
+		  no_bed:document.getElementById('no_bed').value,
+		  rooms_id:document.getElementById('rooms_id').value 
+          
+        },
+        function(data,status){
+         // alert("Data: " + data + "\nStatus: " + status);
+			if(status=='success')
+			{
+			//alert('situ');
+			$('#addcomm').html(data);
+			}  
+        });
+				$('.start_date1').val(dateText);
+				$( ".end_date1").datepicker("option",{
+					minDate:dateText ,
+					maxDate:'1971-01-01', 
+				});			
+			}
+		});
+	});
+	$( ".end_date1").live('focus',function(){
+		$(this).datepicker({
+			showOn: "focus",
+			dateFormat: 'yy-mm-dd',
+			changeMonth: true,
+			changeYear: true,
+			defaultDate: '70-01-01',
+			buttonText:'',
+			minDate:'70-01-01' ,
+			maxDate:'1971-01-01', 
+			yearRange: "c-100:c+100",
+			buttonImageOnly: true,
+			onSelect: function(dateText, inst) {
+			//document.getElementById('checktext').value=$('.end_date1').val();
+			//alert('situ');
+	 $.post("../changeprice.html",
+        {
+		//alert($('.end_date1').val());
+          fromdate:$('.start_date1').val(),
+		  todate:document.getElementById('to_date').value,
+		  no_bed:document.getElementById('no_bed').value,
+		  rooms_id:document.getElementById('rooms_id').value  
+        },
+        function(data,status){
+         // alert("Data: " + data + "\nStatus: " + status);
+			if(status=='success')
+			{
+			//alert('situ');
+			$('#addcomm').html(data);
+			}  
+        });
+			
+				$('.end_date1').val(dateText);
+			}
+		});
+	});
+
+});
+
+
+function changesdates()
+{
+///alert('situ');
+
+	 $.post("../changeprice.html",  
+        {
+		//alert($('.end_date1').val());
+          fromdate:document.getElementById('from_date').value,
+		  todate:document.getElementById('to_date').value,
+		  no_bed:document.getElementById('no_bed').value,
+		  rooms_id:document.getElementById('rooms_id').value 
+          
+        },
+        function(data,status){
+         //alert("Data: " + data + "\nStatus: " + status);
+			if(status=='success')
+			{
+			//alert('situ');
+			$('#addcomm').html(data);
+			}  
+        });
+
+}
+
+</script>
+
+<!-- Mirrored from www.thenestcomfortpg.com/rooms/enquiry/favicon.ico by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Mar 2023 12:18:35 GMT -->
+</html>
